@@ -1,0 +1,944 @@
+[
+  {
+    "name": "Puzzle",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/1e3c7b6ec624bacb.png",
+        "name": "Happy Hour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=731&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a1b8182d9a8cc9d2.png",
+        "name": "Connect The Roads",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=776&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/ecd7b67d349fca37.png",
+        "name": "Chuck Chicken Memory",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=765&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eaa2ac145c0f036a.png",
+        "name": "Block Wood Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=725&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/17290c10d10517df.png",
+        "name": "Knife Dart",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=702&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/4351329b5e0fa65e.png",
+        "name": "Brick Breaker",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=709&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/bac2f48b1fb7c21e.png",
+        "name": "Puzzle Ball",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=746&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/aca38e1672a11ecd.png",
+        "name": "Spiral Stairs",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=798&classid=90"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/4cf18aaf34f132f9.png",
+        "name": "Fill The Gap",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=797&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/d98f9cf9c9a8867c.png",
+        "name": "Flip Jump",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=734&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/88b7b22fe587fdbd.png",
+        "name": "Chuck Chicken Magic Egg",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=706&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/76aaf89dfb30b38b.png",
+        "name": "One Liner",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=705&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/fcc6bb8d86e5ecc5.png",
+        "name": "Chroma Challenge",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=708&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/8e145ba08a577513.png",
+        "name": "London Jigsaw Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=775&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/0440e37353fffcd8.png",
+        "name": "Math vs Bat",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=777&classid=240"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/77785f7c73d25bba.png",
+        "name": "New York Jigsaw Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=783&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b2e302df95b8527a.png",
+        "name": "Superhero Memory Match",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=782&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6c3d451f642339b8.png",
+        "name": "Hogie The Globehoppper Adventure Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=737&classid=241"
+      }
+    ]
+  },
+  {
+    "name": "Kids",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2a0d3bd8e92cba61.png",
+        "name": "Hop Stars",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=741&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/1e3c7b6ec624bacb.png",
+        "name": "Happy Hour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=731&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a1b8182d9a8cc9d2.png",
+        "name": "Connect The Roads",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=776&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6a287df54be897ea.png",
+        "name": "Drift Boss",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=827&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eedf2cae3546134c.png",
+        "name": "Piano Tile Reflex",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=803&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e413eb7f8d0be57e.png",
+        "name": "Connect The Gems",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=773&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3bc42693a23b1ff7.png",
+        "name": "Scratch & Match - Animals",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=774&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a2ccfb1e610d8fe9.png",
+        "name": "Spore Hunter",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=723&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/ecd7b67d349fca37.png",
+        "name": "Chuck Chicken Memory",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=765&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/4351329b5e0fa65e.png",
+        "name": "Brick Breaker",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=709&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e7d84cadc3e73860.png",
+        "name": "Giant Rabbit Run",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=784&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/5674ebfe0b391579.png",
+        "name": "Tripoly",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=793&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/769c57e916b1ffae.png",
+        "name": "Love Bears",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=749&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3dc4b1b9f4bf0c59.png",
+        "name": "Pipe Master",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=823&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b804be76526d1a40.png",
+        "name": "Drone Pickup Service",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=805&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/4cf18aaf34f132f9.png",
+        "name": "Fill The Gap",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=797&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/955ab0bd2fd11c7b.png",
+        "name": "Stack The Burger",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=820&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/66e96a1e0bae878f.png",
+        "name": "Dumb Ways Jr Zany's Hospital",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=826&classid=236"
+      }
+    ]
+  },
+  {
+    "name": "Boy",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2a0d3bd8e92cba61.png",
+        "name": "Hop Stars",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=741&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6a287df54be897ea.png",
+        "name": "Drift Boss",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=827&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/88b7b22fe587fdbd.png",
+        "name": "Chuck Chicken Magic Egg",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=706&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/609d471e6d7b3ac6.png",
+        "name": "Extreme Baseball",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=810&classid=89"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/34728fe8c0283832.png",
+        "name": "Air Hockey",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=800&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/4382082808e9bc3e.png",
+        "name": "Flip The Bottle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=799&classid=90"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2dabe324ec03e6b4.png",
+        "name": "Ice Hockey Shootout",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=796&classid=89"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/9ccf5630f1c7d735.png",
+        "name": "Elite SWAT Commander",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=789&classid=232"
+      }
+    ]
+  },
+  {
+    "name": "Adventure",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/964ae666f0e7a5ea.png",
+        "name": "Santa T-Rex Run",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=822&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/c96a468558342923.png",
+        "name": "Escape from Aztec",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=824&classid=89"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a2ccfb1e610d8fe9.png",
+        "name": "Spore Hunter",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=723&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/66e96a1e0bae878f.png",
+        "name": "Dumb Ways Jr Zany's Hospital",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=826&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/66bffd6eff51b56e.png",
+        "name": "Pocket Pac",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=791&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/298d3c63328313c6.png",
+        "name": "Dumb Ways to Die 3 - World Tour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=825&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/dfdbd24a8a290fa4.png",
+        "name": "Protect The Kingdom",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=779&classid=237"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6c3d451f642339b8.png",
+        "name": "Hogie The Globehoppper Adventure Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=737&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/f430ce8a3d1a8369.png",
+        "name": "Pepperoni Gone Wild",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=715&classid=235"
+      }
+    ]
+  },
+  {
+    "name": "Sports",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b8b958d965954c50.png",
+        "name": "Stickman Swing",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=704&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/d4be496508b55133.png",
+        "name": "Power Badminton",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=755&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/1d074b4192250ebf.png",
+        "name": "Ultimate Baseball",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=736&classid=32"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/01aec8a13525ba68.png",
+        "name": "Mini Golf Adventure",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=745&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/609d471e6d7b3ac6.png",
+        "name": "Extreme Baseball",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=810&classid=89"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/34728fe8c0283832.png",
+        "name": "Air Hockey",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=800&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/833b70c0d4b0cb34.png",
+        "name": "Oddbods Soccer Challenge",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=751&classid=32"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2dabe324ec03e6b4.png",
+        "name": "Ice Hockey Shootout",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=796&classid=89"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/61e40b096ea36521.png",
+        "name": "Beach Soccer",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=802&classid=89"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/df49710d2ca684d6.png",
+        "name": " Biker Lane",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=835&classid=89"
+      }
+    ]
+  },
+  {
+    "name": "Racing",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6a287df54be897ea.png",
+        "name": "Drift Boss",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=827&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/df49710d2ca684d6.png",
+        "name": " Biker Lane",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=835&classid=89"
+      }
+    ]
+  },
+  {
+    "name": "Girl",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/1e3c7b6ec624bacb.png",
+        "name": "Happy Hour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=731&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e413eb7f8d0be57e.png",
+        "name": "Connect The Gems",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=773&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/785fdf9e0a1c7dfc.jpg",
+        "name": "Echo Simon",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=812&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/88b7b22fe587fdbd.png",
+        "name": "Chuck Chicken Magic Egg",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=706&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/121f7daa638a0134.png",
+        "name": "Dont mess up",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=781&classid=235"
+      }
+    ]
+  },
+  {
+    "name": "Simulation",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2a0d3bd8e92cba61.png",
+        "name": "Hop Stars",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=741&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6a287df54be897ea.png",
+        "name": "Drift Boss",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=827&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/5f6fcd5ecb5646e3.png",
+        "name": "Valet Parking",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=813&classid=48"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/263fad567f83632d.png",
+        "name": "Megacity Hop",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=747&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6336858cc58f062d.png",
+        "name": "Airplane Survival",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=821&classid=90"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/7b3f9a53f128c658.png",
+        "name": "Construct A Bridge",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=760&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/5dfe50962e97c158.png",
+        "name": "Sky Castle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=710&classid=90"
+      }
+    ]
+  },
+  {
+    "name": "Word",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/121f7daa638a0134.png",
+        "name": "Dont mess up",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=781&classid=235"
+      }
+    ]
+  },
+  {
+    "name": "Educational",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/1e3c7b6ec624bacb.png",
+        "name": "Happy Hour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=731&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a1b8182d9a8cc9d2.png",
+        "name": "Connect The Roads",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=776&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eedf2cae3546134c.png",
+        "name": "Piano Tile Reflex",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=803&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3bc42693a23b1ff7.png",
+        "name": "Scratch & Match - Animals",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=774&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eaa2ac145c0f036a.png",
+        "name": "Block Wood Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=725&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/5674ebfe0b391579.png",
+        "name": "Tripoly",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=793&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/769c57e916b1ffae.png",
+        "name": "Love Bears",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=749&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3dc4b1b9f4bf0c59.png",
+        "name": "Pipe Master",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=823&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/955ab0bd2fd11c7b.png",
+        "name": "Stack The Burger",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=820&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/66e96a1e0bae878f.png",
+        "name": "Dumb Ways Jr Zany's Hospital",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=826&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/785fdf9e0a1c7dfc.jpg",
+        "name": "Echo Simon",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=812&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/66bffd6eff51b56e.png",
+        "name": "Pocket Pac",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=791&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/7b3f9a53f128c658.png",
+        "name": "Construct A Bridge",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=760&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/76aaf89dfb30b38b.png",
+        "name": "One Liner",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=705&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/06574b52fa701f4d.png",
+        "name": "Wild Memory",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=792&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eee1bd686ef92d4f.png",
+        "name": "Horace vs Cheese",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=767&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/8e145ba08a577513.png",
+        "name": "London Jigsaw Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=775&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/0440e37353fffcd8.png",
+        "name": "Math vs Bat",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=777&classid=240"
+      }
+    ]
+  },
+  {
+    "name": "Card",
+    "sites": []
+  },
+  {
+    "name": "Action",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/40e0bebd48cdaf1d.png",
+        "name": "3D Bottle Shooter",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=771&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2a0d3bd8e92cba61.png",
+        "name": "Hop Stars",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=741&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b8b958d965954c50.png",
+        "name": "Stickman Swing",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=704&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/964ae666f0e7a5ea.png",
+        "name": "Santa T-Rex Run",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=822&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6a287df54be897ea.png",
+        "name": "Drift Boss",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=827&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a2ccfb1e610d8fe9.png",
+        "name": "Spore Hunter",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=723&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/17290c10d10517df.png",
+        "name": "Knife Dart",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=702&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3cac49bff93aecb6.png",
+        "name": "Gravity Kid",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=711&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/88b7b22fe587fdbd.png",
+        "name": "Chuck Chicken Magic Egg",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=706&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3ada1c5408f17c3a.png",
+        "name": "Triangle Wars",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=811&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/9ccf5630f1c7d735.png",
+        "name": "Elite SWAT Commander",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=789&classid=232"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/c9ce12cf0eabbac5.png",
+        "name": "Flip The Knife",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=772&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/36693ce074058a5c.png",
+        "name": "Muay Thai Training",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=790&classid=235"
+      }
+    ]
+  },
+  {
+    "name": "Arcade",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/332125806d940162.png",
+        "name": "Stupid Zombies",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=818&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/40e0bebd48cdaf1d.png",
+        "name": "3D Bottle Shooter",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=771&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2a0d3bd8e92cba61.png",
+        "name": "Hop Stars",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=741&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b8b958d965954c50.png",
+        "name": "Stickman Swing",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=704&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/858f3fe945abb470.png",
+        "name": "Flappy Super Kitty",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=819&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/964ae666f0e7a5ea.png",
+        "name": "Santa T-Rex Run",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=822&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/583603a83fe9377c.png",
+        "name": "Oil Hunt",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=817&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6a287df54be897ea.png",
+        "name": "Drift Boss",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=827&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e413eb7f8d0be57e.png",
+        "name": "Connect The Gems",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=773&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a2ccfb1e610d8fe9.png",
+        "name": "Spore Hunter",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=723&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/17290c10d10517df.png",
+        "name": "Knife Dart",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=702&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/263fad567f83632d.png",
+        "name": "Megacity Hop",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=747&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/4351329b5e0fa65e.png",
+        "name": "Brick Breaker",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=709&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e7d84cadc3e73860.png",
+        "name": "Giant Rabbit Run",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=784&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/5674ebfe0b391579.png",
+        "name": "Tripoly",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=793&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/ff5fedfd84ddcff8.png",
+        "name": "Tactical Squad",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=837&classid=94"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/37593476e65f84a1.png",
+        "name": "Slice of Zen",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=839&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b4ddd25b09d19586.png",
+        "name": "Shark Attack",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=834&classid=238"
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eedf2cae3546134c.png",
+        "name": "Piano Tile Reflex",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=803&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/785fdf9e0a1c7dfc.jpg",
+        "name": "Echo Simon",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=812&classid=241"
+      }
+    ]
+  },
+  {
+    "name": "Strategy",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/41217f164a2e3338.png",
+        "name": "Skeleton Defense",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=754&classid=232"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/dfdbd24a8a290fa4.png",
+        "name": "Protect The Kingdom",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=779&classid=237"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/9ccf5630f1c7d735.png",
+        "name": "Elite SWAT Commander",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=789&classid=232"
+      }
+    ]
+  },
+  {
+    "name": "Casino",
+    "sites": []
+  },
+  {
+    "name": "Role Playing",
+    "sites": []
+  },
+  {
+    "name": "Casual",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/2a0d3bd8e92cba61.png",
+        "name": "Hop Stars",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=741&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b8b958d965954c50.png",
+        "name": "Stickman Swing",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=704&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/1e3c7b6ec624bacb.png",
+        "name": "Happy Hour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=731&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/964ae666f0e7a5ea.png",
+        "name": "Santa T-Rex Run",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=822&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6a287df54be897ea.png",
+        "name": "Drift Boss",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=827&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e413eb7f8d0be57e.png",
+        "name": "Connect The Gems",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=773&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a2ccfb1e610d8fe9.png",
+        "name": "Spore Hunter",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=723&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/ecd7b67d349fca37.png",
+        "name": "Chuck Chicken Memory",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=765&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/187b8a2f6a0ecb3f.png",
+        "name": "X Trench Run",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=720&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/17290c10d10517df.png",
+        "name": "Knife Dart",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=702&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/955ab0bd2fd11c7b.png",
+        "name": "Stack The Burger",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=820&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/d98f9cf9c9a8867c.png",
+        "name": "Flip Jump",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=734&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e66a2a26552709c2.png",
+        "name": "Koala Sling",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=718&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3cac49bff93aecb6.png",
+        "name": "Gravity Kid",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=711&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/945066b8d95e667c.png",
+        "name": "Sheep Fight",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=830&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/298d3c63328313c6.png",
+        "name": "Dumb Ways to Die 3 - World Tour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=825&classid=235"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/6273963e785310b3.png",
+        "name": " Laddu Champion",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=815&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/f56774e0d4c2853c.png",
+        "name": "Spidey Swing",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=740&classid=238"
+      }
+    ]
+  },
+  {
+    "name": "Trivia",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/1e3c7b6ec624bacb.png",
+        "name": "Happy Hour",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=731&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/a1b8182d9a8cc9d2.png",
+        "name": "Connect The Roads",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=776&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eedf2cae3546134c.png",
+        "name": "Piano Tile Reflex",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=803&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/e413eb7f8d0be57e.png",
+        "name": "Connect The Gems",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=773&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3bc42693a23b1ff7.png",
+        "name": "Scratch & Match - Animals",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=774&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/ecd7b67d349fca37.png",
+        "name": "Chuck Chicken Memory",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=765&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/eaa2ac145c0f036a.png",
+        "name": "Block Wood Puzzle",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=725&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/5674ebfe0b391579.png",
+        "name": "Tripoly",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=793&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/769c57e916b1ffae.png",
+        "name": "Love Bears",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=749&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/3dc4b1b9f4bf0c59.png",
+        "name": "Pipe Master",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=823&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/b804be76526d1a40.png",
+        "name": "Drone Pickup Service",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=805&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/4cf18aaf34f132f9.png",
+        "name": "Fill The Gap",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=797&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/66e96a1e0bae878f.png",
+        "name": "Dumb Ways Jr Zany's Hospital",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=826&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/785fdf9e0a1c7dfc.jpg",
+        "name": "Echo Simon",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=812&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/66bffd6eff51b56e.png",
+        "name": "Pocket Pac",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=791&classid=236"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/d98f9cf9c9a8867c.png",
+        "name": "Flip Jump",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=734&classid=238"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/7b3f9a53f128c658.png",
+        "name": "Construct A Bridge",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=760&classid=241"
+      },
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/76aaf89dfb30b38b.png",
+        "name": "One Liner",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=705&classid=241"
+      }
+    ]
+  },
+  {
+    "name": "Board",
+    "sites": [
+      {
+        "icon": "https://www.boybox.xyz/uploads/gamepic/dfdbd24a8a290fa4.png",
+        "name": "Protect The Kingdom",
+        "url": "https://www.boybox.xyz/admin/domains/games?gameid=779&classid=237"
+      }
+    ]
+  }
+]

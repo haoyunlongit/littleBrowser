@@ -1,0 +1,59 @@
+<resources>
+    <string name="privacy_policy_content">শুরুতে ক্লিক করে, আমি গোপনীয়তা নীতিতে সম্মত।</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="start">শুরু করুন</string>
+    <string name="title_home">বাড়ি</string>
+    <string name="title_games">গেমস</string>
+    <string name="title_feed">তথ্য প্রবাহ</string>
+    <string name="title_favorites">পছন্দসই</string>
+    <string name="empty_favorites">প্রিয়সমূহ খালি</string>
+    <string name="search">অনুসন্ধান করুন</string>
+    <string name="search_with">সাথে অনুসন্ধান করুন</string>
+    <string name="empty_results">ফলাফল খালি</string>
+    <string name="app_search_hint">অ্যাপ্লিকেশন অনুসন্ধান করুন</string>
+    <string name="categories">বিভাগসমূহ</string>
+    <string name="added_to_favorites">ফেভারিটে যোগ করুন</string>
+    <string name="removed_from_favorites">প্রিয় থেকে সরানো হয়েছে</string>
+    <string name="alert">সতর্কতা</string>
+    <string name="exit_web_alert">আপনি কি ওয়েব থেকে প্রস্থান করার বিষয়ে নিশ্চিত?</string>
+    <string name="exit">প্রস্থান</string>
+    <string name="menu_feedback"> মতামত </string>
+    <string name="rate_us"> আমাদের রেট দিন </string>
+    <string name="rating_text2"> আমি %s এর ডিজাইনার, যদি আপনি %s পছন্দ করেন, দয়া করে আমাদের প্লে স্টোরে রেট দিন। </string>
+    <string name="unlock">আনলক</string>
+    <string name="connection_error">সংযোগ ত্রুটি</string>
+    <string name="something_error_retry">কিছু ত্রুটি, পরে আবার চেষ্টা করুন</string>
+
+    <string name="watch_video_to_unlock">এখনই আনলক করতে একটি ভিডিও দেখুন</string>
+    <string name="cancel">বাতিল করুন</string>৷
+    <string name="confirm">নিশ্চিত করুন</string>৷
+    <string name="exit_confirmation">প্রস্থান নিশ্চিতকরণ</string>
+    <string name="exit_web_dialog_tips">প্রস্থান করার পরে বিজ্ঞাপন প্রদর্শিত হবে, \n আপনার ধৈর্যের জন্য ধন্যবাদ</string>
+
+    <string name="feedback">প্রতিক্রিয়া</string>
+    <string name = "about"> সম্বন্ধে</string>
+    <string name = "feed_top_news">শীর্ষ সংবাদ</string>
+    <string name = "feed_weather">আবহাওয়া</string>
+    <string name = "feed_entertainment">বিনোদন</string>
+    <string name = "feed_sports">খেলাধুলা</string>
+    <string name = "feed_finance">অর্থ</string>
+    <string name = "feed_lifestyle"> জীবনধারা</string>
+    <string name = "feed_health">স্বাস্থ্য</string>
+    <string name = "feed_dining">ডাইনিং</string>
+    <string name = "feed_travel">ভ্রমণ</string>
+    <string name="feed_autos">অটোস</string>
+    <string name = "feed_video">ভিডিও</string>
+
+    <string name="download">ডাউনলোড করুন</string>
+    <string name="downloads">ডাউনলোড</string>
+    <string name="watch_video_to_download">ডাউনলোড করতে একটি ভিডিও দেখুন</string>
+    <string name="empty_downloads">ডাউনলোড খালি</string>
+    <string name="downloads_completed">ডাউনলোড সম্পূর্ণ হয়েছে</string>
+    <string name="title_download_choices">কোন ভিডিও ডাউনলোড করতে হবে তা চয়ন করুন</string>৷
+    <string name="storage_permission_needed">ডাউনলোড বৈশিষ্ট্য ব্যবহার করার জন্য স্টোরেজ অনুমতি প্রয়োজন</string>
+    <string name="download_start">%s ডাউনলোড শুরু হয়</string>
+    <string name="download_completed">%s ডাউনলোড সম্পন্ন হয়েছে</string>
+    <string name="download_failed">%s ডাউনলোড ব্যর্থ হয়েছে</string>৷
+    <string name="a_video">একটি ভিডিও</string>
+    <string name="load_video_retry">ভিডিওটি লোড হচ্ছে, অনুগ্রহ করে ইন্টারনেট সংযোগ রাখুন এবং পরে আবার চেষ্টা করুন</string>
+</resources>

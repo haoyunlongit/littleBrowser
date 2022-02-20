@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <group android:id="@+id/group_speedup">-->
+<!--        <item-->
+<!--            android:id="@+id/drawer_speedup"-->
+<!--            android:icon="@mipmap/ic_settings_optimize"-->
+<!--            android:title="@string/speedup_optimize"-->
+<!--            app:showAsAction="ifRoom" />-->
+<!--    </group>-->
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="@string/feedback"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/drawer_privacy"
+            android:icon="@drawable/ic_privacy"
+            android:title="@string/privacy_policy"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/drawer_rate_us"
+            android:icon="@drawable/ic_rate_us"
+            android:title="@string/rate_us"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/drawer_about"
+            android:icon="@drawable/ic_abount"
+            android:title="@string/about"
+            app:showAsAction="ifRoom" />
+    </group>
+
+
+
+
+</menu>

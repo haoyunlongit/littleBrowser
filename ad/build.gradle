@@ -1,0 +1,47 @@
+plugins {
+    id 'com.android.library'
+    id 'kotlin-android'
+}
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+
+        versionCode 1
+        versionName "1.0"
+
+        buildConfigField 'String', 'BANNER_AD_ID', '"b60d841640c424"'
+    }
+
+    buildTypes {
+        debug {
+            buildConfigField 'String', 'BANNER_AD_ID', '"b5baca4f74c3d8"'
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+    // UI组件
+    implementation "androidx.appcompat:appcompat:$appCompatVersion"
+    api "com.google.android.gms:play-services-ads:$admobVersion"
+    // 子模块
+    implementation project(":util")
+}

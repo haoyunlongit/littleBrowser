@@ -1,0 +1,114 @@
+{
+  "adShares": {
+    "favorite_native": "exit_app",
+    "home_games": "home_feed",
+    "home_news": "home_feed",
+    "video_download_reward": "see_all_reward"
+  },
+  "adPositions": [
+    {
+      "oid": "app_open",
+      "format": 2,
+      "count": 1,
+      "refill": 0,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/5615874634"
+          }
+        ]
+      ]
+    },
+    {
+      "oid": "site_exit",
+      "format": 0,
+      "count": 1,
+      "refill": 1,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/9210616660"
+          }
+        ]
+      ]
+    },
+    {
+      "oid": "splash_inter",
+      "format": 0,
+      "count": 1,
+      "refill": 1,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/9210616660"
+          }
+        ]
+      ]
+    },
+    {
+      "oid": "banner_inter",
+      "format": 6,
+      "count": 1,
+      "refill": 0,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/7697196773"
+          }
+        ]
+      ]
+    },
+    {
+      "oid": "home_feed",
+      "format": 4,
+      "count": 2,
+      "refill": 1,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/2636441781"
+          }
+        ]
+      ]
+    },
+    {
+      "oid": "exit_app",
+      "format": 4,
+      "count": 1,
+      "refill": 1,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/2636441781"
+          }
+        ]
+      ]
+    },
+    {
+      "oid": "see_all_reward",
+      "format": 1,
+      "count": 1,
+      "refill": 0,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/1855722829"
+          }
+        ]
+      ]
+    },
+    {
+      "oid": "web_bottom_banner",
+      "format": 7,
+      "count": 1,
+      "refill": 1,
+      "adIds": [
+        [
+          {
+            "value": "ca-app-pub-4799710276004503/7697196773"
+          }
+        ]
+      ]
+    }
+  ]
+}

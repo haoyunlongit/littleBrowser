@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    app:cardCornerRadius="15dp">
+
+    <com.google.android.gms.ads.nativead.NativeAdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.gms.ads.nativead.MediaView
+                android:id="@+id/adMedia"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/native_ad_media_height"
+                android:layout_gravity="center_horizontal"
+                tools:background="@color/teal_200" />
+
+            <ImageView
+                android:id="@+id/adIcon"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_below="@+id/adMedia"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:adjustViewBounds="true"
+                tools:ignore="ContentDescription"
+                tools:src="@mipmap/ic_launcher" />
+
+            <TextView
+                android:id="@+id/adHeadline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/adMedia"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_toEndOf="@+id/adIcon"
+                android:ellipsize="end"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1"
+                android:paddingTop="8dp"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                tools:text="test ad title" />
+
+            <TextView
+                android:id="@+id/adBody"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/adHeadline"
+                android:layout_alignStart="@+id/adHeadline"
+                android:layout_alignEnd="@+id/adHeadline"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:paddingBottom="8dp"
+                android:textColor="@color/black"
+                android:textSize="12sp"
+                tools:text="test ad body" />
+
+            <TextView
+                android:id="@+id/adCta"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/native_ad_with_media_cta_height"
+                android:layout_below="@+id/adBody"
+                android:background="@color/ad_attribute_bg"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                tools:text="@string/search" />
+
+            <TextView
+                style="@style/AdAttribution"
+                android:layout_below="@+id/adMedia"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+
+    </com.google.android.gms.ads.nativead.NativeAdView>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,5819 @@
+[
+  {
+    "key": "tops",
+    "name": "Top Apps",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/google.jpg",
+        "name": "Google",
+        "url": "https://www.google.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/facebook.jpg",
+        "name": "Facebook",
+        "url": "https://facebook.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/tiktok.jpg",
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/en/trending"
+      },
+      {
+        "icon": "file:///android_asset/icons/snapchat.jpg",
+        "name": "Snapchat",
+        "url": "https://story.snapchat.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/twitter.jpg",
+        "name": "Twitter",
+        "url": "https://www.twitter.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pinterest.jpg",
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quora.jpg",
+        "name": "Quora",
+        "url": "https://www.quora.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/likee.jpg",
+        "name": "likee",
+        "url": "https://likee.com/trending"
+      },
+      {
+        "icon": "file:///android_asset/icons/youtube.jpg",
+        "name": "Youtube",
+        "url": "https://www.youtube.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/gmail.jpg",
+        "name": "Gmail",
+        "url": "https://www.google.com/gmail"
+      },
+      {
+        "icon": "file:///android_asset/icons/googletranslation.jpg",
+        "name": "GOOGLE translation",
+        "url": "https://translate.google.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/netflix.jpg",
+        "name": "Netflix",
+        "url": "https://www.netflix.com"
+      }
+    ]
+  },
+  {
+    "key": "social",
+    "name": "Social",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/facebook.jpg",
+        "name": "Facebook",
+        "url": "https://facebook.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/instagram.jpg",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/tiktok.jpg",
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/en/trending"
+      },
+      {
+        "icon": "file:///android_asset/icons/snapchat.jpg",
+        "name": "Snapchat",
+        "url": "https://story.snapchat.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/linkedin.jpg",
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/likee.jpg",
+        "name": "likee",
+        "url": "https://likee.com/trending"
+      },
+      {
+        "icon": "file:///android_asset/icons/tumblr.jpg",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/telegram.jpg",
+        "name": "Telegram",
+        "url": "https://web.telegram.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/twitter.jpg",
+        "name": "Twitter",
+        "url": "https://www.twitter.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/youtube.jpg",
+        "name": "Youtube",
+        "url": "https://www.youtube.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nimo.jpg",
+        "name": "Nimo TV",
+        "url": "https://m.nimo.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vk.jpg",
+        "name": "VK",
+        "url": "https://www.vk.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gaglogo.jpg",
+        "name": "9gag",
+        "url": "https://www.9gag.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/reddit.jpg",
+        "name": "Reddit",
+        "url": "https://www.reddit.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hi5.jpg",
+        "name": "Hi5",
+        "url": "https://www.hi5.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pinterest.jpg",
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/askfm.jpg",
+        "name": "ASKfm",
+        "url": "https://www.ask.fm"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tagged.jpg",
+        "name": "Tagged",
+        "url": "https://www.tagged.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/meetup.jpg",
+        "name": "Meetup",
+        "url": "https://www.meetup.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/okru.jpg",
+        "name": "OK.RU",
+        "url": "https://www.ok.ru"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nextdoor.jpg",
+        "name": "Nextdoor",
+        "url": "https://www.nextdoor.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/skyrock.jpg",
+        "name": "Skyrock",
+        "url": "https://www.skyrock.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/deviantart.jpg",
+        "name": "DeviantArt",
+        "url": "https://www.deviantart.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/habbo.jpg",
+        "name": "Habbo",
+        "url": "https://www.habbo.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/weheartit.jpg",
+        "name": "We Heart It",
+        "url": "https://www.weheartit.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/livejournalpng.jpg",
+        "name": "LiveJournal",
+        "url": "https://www.livejournal.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quora.jpg",
+        "name": "Quora",
+        "url": "https://www.quora.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wattpad.jpg",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/whisper.jpg",
+        "name": "Whisper",
+        "url": "https://www.whisper.sh"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/iplandigital.th.jpg",
+        "name": "iplan digital.th",
+        "url": "https://www.iplandigital.co.th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mocospace.jpg",
+        "name": "mocospace",
+        "url": "https://mocospace.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Digg.jpg",
+        "name": "Digg",
+        "url": "https://digg.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Plurk.jpg",
+        "name": "Plurk",
+        "url": "https://www.plurk.com/portal/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/skype.jpg",
+        "name": "skype",
+        "url": "https://login.live.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zeenews.in.jpg",
+        "name": "zee news.in",
+        "url": "https://zeenews.india.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/qiran.jpg",
+        "name": "qiran",
+        "url": "https://www.qiran.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vitaminedz.dz.jpg",
+        "name": "vitaminedz.dz",
+        "url": "https://www.vitaminedz.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/inshallah.jpg",
+        "name": "inshallah",
+        "url": "https://www.inshallah.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/جديدالاخبارdz.ma.jpg",
+        "name": "جديد الاخبارdz.ma ",
+        "url": "http://www.dz.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/KASKUS.id.jpg",
+        "name": "KASKUS.id",
+        "url": "https://www.kaskus.co.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/viva.id.jpg",
+        "name": "viva.id",
+        "url": "https://www.viva.co.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Palingseru.id.jpg",
+        "name": "Palingseru.id",
+        "url": "https://palingseru.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ngex.ng.jpg",
+        "name": "ngex.ng",
+        "url": "https://ngex.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ng.galleria.jpg",
+        "name": "ng.galleria",
+        "url": "https://nigeriagalleria.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hamariweb.pk.jpg",
+        "name": "hamari web.pk",
+        "url": "https://hamariweb.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/CốcCốc.jpg",
+        "name": "Cốc Cốc",
+        "url": "https://coccoc.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kites.vn.jpg",
+        "name": "kites.vn",
+        "url": "https://www.kites.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zing.vn.jpg",
+        "name": "zing .vn",
+        "url": "https://zingnews.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/craigslis.tn.jpg",
+        "name": "craigslis. tn",
+        "url": "https://craigslist.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fiverr.jpg",
+        "name": "fiverr",
+        "url": "https://fiverr.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sharechat.in.jpg",
+        "name": "share chat.in",
+        "url": "https://sharechat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indiatimes.in.jpg",
+        "name": "indiatimes.in",
+        "url": "https://indiatimes.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/eskimi.jpg",
+        "name": "eskimi",
+        "url": "https://www.eskimi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cafemom.jpg",
+        "name": "cafemom",
+        "url": "https://www.cafemom.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gaana.in.jpg",
+        "name": "gaana .in",
+        "url": "https://gaana.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sportsa.in.jpg",
+        "name": "sportsa.in",
+        "url": "https://sportsa.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indiaonpage.jpg",
+        "name": "india on page",
+        "url": "http://indiaonapage.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yahoo.in.jpg",
+        "name": "yahoo.in",
+        "url": "https://in.yahoo.com/?guccounter=1"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/india.jpg",
+        "name": "india",
+        "url": "https://www.india.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/webindia123.jpg",
+        "name": "web india123",
+        "url": "https://www.webindia123.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bakusai.ja.jpg",
+        "name": "bakusai.ja",
+        "url": "https://bakusai.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/أخبارك.jpg",
+        "name": "أخبارك",
+        "url": "https://akhbarak.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress,in.jpg",
+        "name": "indian express,in",
+        "url": "https://www.jansatta.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/हिंदीसमाचार.jpg",
+        "name": " हिंदी समाचार",
+        "url": "https://www.jansatta.com/"
+      },
+      {
+        "icon": "liquipedia.jpg",
+        "name": "liquipedia",
+        "url": "https://liquipedia.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/discordapp.jpg",
+        "name": "discordapp",
+        "url": "https://discordapp.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wqow.jpg",
+        "name": "wqow",
+        "url": "https://wqow.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/はてなブログ.jpg",
+        "name": "はてなブログ",
+        "url": "https://hatenablog.com"
+      }
+    ]
+  },
+  {
+    "key": "visual",
+    "name": "Visual",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/tiktok.jpg",
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/en/trending"
+      },
+      {
+        "icon": "file:///android_asset/icons/snapchat.jpg",
+        "name": "Snapchat",
+        "url": "https://story.snapchat.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/vine.jpg",
+        "name": "Vine",
+        "url": "https://www.vine.co"
+      },
+      {
+        "icon": "file:///android_asset/icons/twitch.jpg",
+        "name": "twitch",
+        "url": "https://www.twitch.tv"
+      },
+      {
+        "icon": "file:///android_asset/icons/flickr.jpg",
+        "name": "Flickr",
+        "url": "https://www.flickr.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/gaglogo.jpg",
+        "name": "9gag",
+        "url": "https://www.9gag.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/dailymotion.jpg",
+        "name": "Dailymotion",
+        "url": "https://www.dailymotion.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/buzzfeed.jpg",
+        "name": "Buzzfeed",
+        "url": "https://www.buzzfeed.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/youtube.jpg",
+        "name": "Youtube",
+        "url": "https://www.youtube.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/netflix.jpg",
+        "name": "Netflix",
+        "url": "https://www.netflix.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/photobucket.jpg",
+        "name": "PhotoBucket",
+        "url": "https://www.photobucket.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vimeo.jpg",
+        "name": "Vimeo",
+        "url": "https://www.vimeo.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pinterest.jpg",
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Poki.jpg",
+        "name": "Poki",
+        "url": "https://poki.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/befunky.jpg",
+        "name": "befunky",
+        "url": "https://www.befunky.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/funnyordia.jpg",
+        "name": "Funny or Dia",
+        "url": "https://www.funnyordie.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/deviantart.jpg",
+        "name": "DeviantArt",
+        "url": "https://www.deviantart.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/weheartit.jpg",
+        "name": "We Heart It",
+        "url": "https://www.weheartit.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gaia.jpg",
+        "name": "Gaia",
+        "url": "https://www.gaia.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/imgur.jpg",
+        "name": "Imgur",
+        "url": "https://www.imgur.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/worldstarhiphop.jpg",
+        "name": "World Star Hip Hop",
+        "url": "https://www.worldstarhiphop.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/aolvideo.jpg",
+        "name": "aol video",
+        "url": "https://www.aol.com/video/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chiangraitimes.jpg",
+        "name": "chiangrai times",
+        "url": "https://www.chiangraitimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/my-thai.jpg",
+        "name": "my-thai",
+        "url": "https://my-thai.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/goodyfeed.jpg",
+        "name": "goody feed",
+        "url": "https://goodyfeed.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/alamy.jpg",
+        "name": "alamy",
+        "url": "https://www.alamy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fotor.jpg",
+        "name": "fotor",
+        "url": "https://www.fotor.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/msnvideo.jpg",
+        "name": "msn video",
+        "url": "https://www.msn.com/video"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/accuweathervideo.jpg",
+        "name": "accuweather video",
+        "url": "https://www.accuweather.com/en/videos"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/imdb.jpg",
+        "name": "imdb",
+        "url": "https://imdb.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ZEE5.en.jpg",
+        "name": "ZEE5.en",
+        "url": "https://www.zee5.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fandango.jpg",
+        "name": "fandango",
+        "url": "https://www.fandango.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ayibamagazine.jpg",
+        "name": "ayiba magazine",
+        "url": "http://ayibamagazine.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/goodhouse.jpg",
+        "name": "good house",
+        "url": "https://www.goodhousekeeping.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rediff.in.jpg",
+        "name": "rediff.in",
+        "url": "https://www.rediff.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/scoopwhoop.in.jpg",
+        "name": "scoopwhoop.in",
+        "url": "https://www.scoopwhoop.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bollywoodhungama.jpg",
+        "name": "bollywood hungama",
+        "url": "https://www.bollywoodhungama.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/koimoi.in.jpg",
+        "name": "koimoi.in",
+        "url": "https://www.koimoi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bollywoodlife.in.jpg",
+        "name": "bollywoodlife.in",
+        "url": "https://www.bollywoodlife.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indiaglitz.in.jpg",
+        "name": "indiaglitz.in",
+        "url": "https://www.indiaglitz.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/businessofcinema.in.jpg",
+        "name": "business of cinema.in",
+        "url": "https://businessofcinema.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cinejosh.in.jpg",
+        "name": "cinejosh.in",
+        "url": "https://www.cinejosh.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/glamsham.in.jpg",
+        "name": "glamsham.in",
+        "url": "https://www.glamsham.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/prokerala.in.jpg",
+        "name": "prokerala.in",
+        "url": "https://www.prokerala.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/missmalini.in.jpg",
+        "name": "miss malini.in",
+        "url": "https://www.missmalini.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pinkvilla.in.jpg",
+        "name": "pinkvilla.in",
+        "url": "https://www.pinkvilla.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ragalahari.in.jpg",
+        "name": "ragalahari.in",
+        "url": "https://www.ragalahari.com/index.aspx"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/desimartini.in.jpg",
+        "name": "desimartini.in",
+        "url": "https://www.desimartini.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/iqlikmovies.in.jpg",
+        "name": "iqlikmovies.in",
+        "url": "https://www.iqlikmovies.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/arte.tv.jpg",
+        "name": "arte.tv",
+        "url": "https://www.arte.tv/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rutube.ru.jpg",
+        "name": "rutube.ru",
+        "url": "https://rutube.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bigcinema.ru.jpg",
+        "name": "bigcinema.ru",
+        "url": "https://bigcinema.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/afisha.ru.jpg",
+        "name": "afisha.ru",
+        "url": "https://www.afisha.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/عربسيد.jpg",
+        "name": "عرب سيد",
+        "url": "https://m2.arabseed.net/main13/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/فيالفن.jpg",
+        "name": "في الفن",
+        "url": "https://www.filfan.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/القاهرةوالناس.jpg",
+        "name": "القاهرة و الناس",
+        "url": "http://www.alkaherawalnas.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/عربنت.jpg",
+        "name": "عرب نت",
+        "url": "http://www.arabnet5.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سبقsa.jpg",
+        "name": "سبقsa",
+        "url": "https://sabq.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/عكاظ.sa.jpg",
+        "name": "عكاظ.sa",
+        "url": "https://www.okaz.com.sa/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/مكشات.jpg",
+        "name": "مكشات",
+        "url": "http://mekshat.com/vb/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/النهار.dz.jpg",
+        "name": "النهار.dz",
+        "url": "https://www.ennaharonline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/بوابةالشروق.dz.jpg",
+        "name": "بوابة الشروق.dz",
+        "url": "https://www.echoroukonline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/BerbereTV,dz.jpg",
+        "name": "BerbereTV,dz",
+        "url": "https://www.dailymotion.com/BerbereTV"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vitaminedz.dz.jpg",
+        "name": "vitaminedz.dz",
+        "url": "https://www.vitaminedz.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tsa.dz.jpg",
+        "name": "tsa.dz",
+        "url": "https://www.tsa-algerie.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zeearab.ma.jpg",
+        "name": "zee arab.ma",
+        "url": "http://www.zeearab.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/جديدالاخبارdz.ma.jpg",
+        "name": "جديد الاخبارdz.ma ",
+        "url": "http://www.dz.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/topbladi.ma.jpg",
+        "name": "top bladi.ma",
+        "url": "http://www.topbladi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/atlas,ma.jpg",
+        "name": "atlas,ma",
+        "url": "http://www.avmaroc.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سوس24.ma.jpg",
+        "name": "سوس24.ma",
+        "url": "https://www.souss24.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اكادير.ma.jpg",
+        "name": "اكادير.ma",
+        "url": "https://agadir24.info/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/h24.ma.jpg",
+        "name": "h24.ma",
+        "url": "https://www.h24info.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/عراقللكل.jpg",
+        "name": "عراق للكل",
+        "url": "https://www.3raq4all.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السومرية.jpg",
+        "name": "السومرية",
+        "url": "https://www.alsumaria.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rudawku.jpg",
+        "name": "rudaw ku",
+        "url": "https://www.rudaw.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/basnews.ku.so.jpg",
+        "name": "bas news.ku.so",
+        "url": "https://www.basnews.com/so/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/basnews.ku.en.jpg",
+        "name": "bas news.ku.en",
+        "url": "https://www.basnews.com/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rudawku.en.jpg",
+        "name": "rudaw ku.en",
+        "url": "https://www.rudaw.net/english"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdiu.ku.en.jpg",
+        "name": "kurdiu.ku.en",
+        "url": "https://www.kurdiu.org/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/xendan.ku.jpg",
+        "name": "xendan.ku",
+        "url": "https://www.xendan.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/لفين.fa.jpg",
+        "name": "لفين.fa",
+        "url": "https://lvinpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/كتبات.iq.jpg",
+        "name": "كتبات.iq",
+        "url": "https://kitabat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/شفقiq.jpg",
+        "name": "شفقiq",
+        "url": "https://shafaq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المدى,iq.jpg",
+        "name": "المدى,iq",
+        "url": "https://almadapaper.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ئاوێنە.jpg",
+        "name": "ئاوێنە",
+        "url": "https://www.awene.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/imn.iq.jpg",
+        "name": "imn.iq",
+        "url": "https://imn.iq/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الفراتنيوز.iq.jpg",
+        "name": "الفرات نيوز.iq",
+        "url": "https://alforatnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المدي.iq.jpg",
+        "name": "المدي.iq",
+        "url": "https://almadapress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الشرقيةiq.jpg",
+        "name": "الشرقيةiq",
+        "url": "https://alsharqiya.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الناصرية.iq.jpg",
+        "name": "الناصرية.iq",
+        "url": "https://ar.nasiriyah.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Dramabeans.id.jpg",
+        "name": "Drama beans.id",
+        "url": "https://www.dramabeans.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Malesbanget.id.jpg",
+        "name": "Males banget.id",
+        "url": "https://malesbanget.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tabloidbintang.d.jpg",
+        "name": "tabloid bintang.d",
+        "url": "https://www.tabloidbintang.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Nova.id.jpg",
+        "name": "Nova.id",
+        "url": "https://nova.grid.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Palingseru.id.jpg",
+        "name": "Palingseru.id",
+        "url": "https://palingseru.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/20.detik.id.jpg",
+        "name": "20.detik.id",
+        "url": "https://20.detik.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gistmania.ىل.jpg",
+        "name": "gistmania.ىل",
+        "url": "https://www.gistmania.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/naijapals.ng.jpg",
+        "name": "naijapals.ng",
+        "url": "https://www.naijapals.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thenet.ng.jpg",
+        "name": "thenet.ng",
+        "url": "https://thenet.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/primecutt.ng.jpg",
+        "name": "primecutt.ng",
+        "url": "https://primecutt.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/igeriafilms.kg.jpg",
+        "name": "igeria films.kg",
+        "url": "https://www.nigeriafilms.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/naijaloaded.ng.jpg",
+        "name": "naijaloaded.ng",
+        "url": "https://www.naijaloaded.com.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/news24,ng.jpg",
+        "name": "news24,ng",
+        "url": "https://www.news24.com/news24/video"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/apnetv.pk.jpg",
+        "name": "apne tv.pk",
+        "url": "https://apnetv.me/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/reviewit.pk.jpg",
+        "name": "reviewit.pk",
+        "url": "https://reviewit.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jang.pk.jpg",
+        "name": "jang.pk",
+        "url": "https://jang.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dawnur.pk.jpg",
+        "name": "dawn ur.pk",
+        "url": "https://www.dawnnews.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dunya.pk.jpg",
+        "name": "dunya.pk",
+        "url": "https://dunya.com.pk/index.php"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/asalmedia.pk.jpg",
+        "name": "asal media.pk",
+        "url": "https://www.asalmedia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pakistantoday.pk.jpg",
+        "name": "pakistan today.pk",
+        "url": "https://www.pakistantoday.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/urduwire.pk.jpg",
+        "name": "urdu wire.pk",
+        "url": "https://urduwire.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mashriqtv.pk.jpg",
+        "name": "mashriq tv.pk",
+        "url": "https://mashriqtv.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jasarat.pk.jpg",
+        "name": "jasarat.pk",
+        "url": "https://www.jasarat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kites.vn.jpg",
+        "name": "kites.vn",
+        "url": "https://www.kites.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ngoisao.vn.jpg",
+        "name": "ngoisao.vn",
+        "url": "https://ngoisao.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yeah1.jpg.jpg",
+        "name": "yeah1.jpg",
+        "url": "https://yeah1.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/phunutoday.vn.jpg",
+        "name": "phunu today.vn",
+        "url": "https://phunutoday.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zingnews.vn.jpg",
+        "name": "zing news.vn",
+        "url": "https://zingnews.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/24h.vn.jpg",
+        "name": "24h.vn",
+        "url": "https://www.24h.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Kênh14.vn.jpg",
+        "name": "Kênh 14.vn",
+        "url": "https://kenh14.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/docbao.vn.jpg",
+        "name": "doc bao.vn",
+        "url": "https://docbao.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sanook.th.jpg",
+        "name": "sanook.th",
+        "url": "https://www.sanook.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/truehits.th.jpg",
+        "name": "truehits.th",
+        "url": "https://truehits.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sodazaa.th.jpg",
+        "name": "sodazaa.th",
+        "url": "https://www.sodazaa.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mthai.th.jpg",
+        "name": "mthai.th",
+        "url": "https://mthai.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/postjung.th.jpg",
+        "name": "postjung.th",
+        "url": "https://postjung.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdistantv.ku.jpg",
+        "name": "kurdistan tv.ku",
+        "url": "https://kurdistantv.net/ku/live"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdistan24.ku.jpg",
+        "name": "kurdistan24.ku",
+        "url": "https://www.kurdistan24.net/en/LiveWatch/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rudawtv.ku.jpg",
+        "name": "rudaw tv.ku",
+        "url": "https://www.rudaw.net/english/onair/tv/live"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Aajtak.hi.jpg",
+        "name": "Aaj tak.hi",
+        "url": "https://aajtak.intoday.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sharechat.in.jpg",
+        "name": "share chat.in",
+        "url": "https://sharechat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/liputan6.id.jpg",
+        "name": "liputan6.id",
+        "url": "https://liputan6.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/SAHARKURDISH.jpg",
+        "name": "SAHAR KURDISH",
+        "url": "http://kurdish.sahartv.ir/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/i_kurdish,tv.jpg",
+        "name": "i_kurdish,tv",
+        "url": "http://www.i-kurdish.net/p/kurdistantv.html"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdistantv.jpg",
+        "name": "kurdistantv",
+        "url": "https://kurdistantv.net/ku/live"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress.in.jpg",
+        "name": "indianexpress.in",
+        "url": "https://indianexpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/abplive.in.jpg",
+        "name": "abp live.in",
+        "url": "https://news.abplive.com/videos"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress.in.jpg",
+        "name": "indianexpress.in",
+        "url": "https://indianexpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/greatandhra.in.jpg",
+        "name": "great andhra.in",
+        "url": "https://www.greatandhra.com/movies"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cafemom.jpg",
+        "name": "cafemom",
+        "url": "https://www.cafemom.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/legit.ng.jpg",
+        "name": "legit.ng",
+        "url": "https://www.legit.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yabaleftonline.ng.jpg",
+        "name": "yabaleftonline.ng",
+        "url": "https://www.yabaleftonline.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/channelstv.ng.jpg",
+        "name": "channelstv.ng",
+        "url": "https://www.channelstv.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/today.ng.jpg",
+        "name": "today.ng",
+        "url": "https://www.today.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lagostalks.ng.jpg",
+        "name": "lagostalks.ng",
+        "url": "https://lagostalks.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fotolia.jpg",
+        "name": "fotolia",
+        "url": "https://www.fotolia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/photo-ac.jpg",
+        "name": "photo-ac",
+        "url": "https://photo-ac.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/giphy.jpg",
+        "name": "giphy",
+        "url": "https://giphy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gaana.in.jpg",
+        "name": "gaana .in",
+        "url": "https://gaana.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/channelstv.ng.jpg",
+        "name": "channels tv.ng",
+        "url": "https://www.channelstv.com/live/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wesh2.tv.jpg",
+        "name": "wesh2.tv",
+        "url": "https://www.wesh.com/cw18"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zakzak.jp.jpg",
+        "name": "zak zak.jp",
+        "url": "https://www.zakzak.co.jp/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cnbctv18.in.jpg",
+        "name": "cnbc tv18 .in",
+        "url": "https://www.cnbctv18.com/live-tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yupptv.in.jpg",
+        "name": "yupp tv.in",
+        "url": "https://www.yupptv.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lyricstranslate.jpg",
+        "name": "lyrics translate",
+        "url": "https://lyricstranslate.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/heavy.jpg",
+        "name": "heavy",
+        "url": "https://heavy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/orf.at.jpg",
+        "name": "orf.at",
+        "url": "https://orf.at/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/webtoons.jpg",
+        "name": "web toons",
+        "url": "https://www.webtoons.com/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/plex.tv.jpg",
+        "name": "plex.tv",
+        "url": "https://www.plex.tv/watch-free/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/heavymag.au.jpg",
+        "name": "heavy mag.au",
+        "url": "https://heavymag.com.au/?v=c2d75724334c"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ndtv.in.livetv.jpg",
+        "name": "ndtv.in .live tv",
+        "url": "https://www.ndtv.com/video/live/channel/ndtv24x7"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.blog.jpg",
+        "name": "jiji.blog",
+        "url": "https://jiji-blog.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/BetterHomes.jpg",
+        "name": "Better Homes",
+        "url": "https://www.bhg.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/weau.jpg",
+        "name": "weau",
+        "url": "https://www.weau.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/flickriver.jpg",
+        "name": "flickriver",
+        "url": "https://flickriver.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nature.jpg",
+        "name": "nature",
+        "url": "https://www.nature.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nhk.jpg",
+        "name": "nhk",
+        "url": "https://www3.nhk.or.jp/nhkworld/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Howcast.jpg",
+        "name": "Howcast",
+        "url": "https://www.howcast.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/أخبارك.jpg",
+        "name": "أخبارك",
+        "url": "https://akhbarak.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gettyimages.jpg",
+        "name": "getty images",
+        "url": "https://www.gettyimages.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/newsday.jpg",
+        "name": "newsday",
+        "url": "https://www.newsday.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nypost.jpg",
+        "name": "nypost",
+        "url": "https://nypost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/losanglegestimes.jpg",
+        "name": "los angleges times",
+        "url": "https://www.latimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chron.jpg",
+        "name": "chron",
+        "url": "https://www.chron.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chicagotribune.jpg",
+        "name": "chicagotribune",
+        "url": "https://www.chicagotribune.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chicago.suntimes.En.jpg",
+        "name": "chicago.suntimes. En",
+        "url": "https://chicago.suntimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thestar.my.jpg",
+        "name": "the star.my",
+        "url": "https://www.thestar.com.my/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wqow.jpg",
+        "name": "wqow",
+        "url": "https://wqow.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lonelyplanet.jpg",
+        "name": "lonely planet",
+        "url": "https://lonelyplanet.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/webmail.za.jpg",
+        "name": "webmail .za",
+        "url": "https://webmail.co.za"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/austinpbs.jpg",
+        "name": "austinpbs",
+        "url": "https://austinpbs.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ktnvtv.jpg",
+        "name": "ktnv tv",
+        "url": "https://www.ktnv.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mytwintiers.jpg",
+        "name": "my twin tiers",
+        "url": "https://www.mytwintiers.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/allyoucanread.jpg",
+        "name": "allyoucanread",
+        "url": "https://www.allyoucanread.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pixlr.jpg",
+        "name": "pixlr",
+        "url": "https://www.fotor.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cbc.ca.jpg",
+        "name": "cbc.ca",
+        "url": "https://www.cbc.ca/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/abs.ph.jpg",
+        "name": "abs.ph",
+        "url": "https://www.abs-cbn.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/filmibeat,in.jpg",
+        "name": "filmi beat,in",
+        "url": "https://www.filmibeat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/people.jpg",
+        "name": "people",
+        "url": "https://people.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hindustantimes.in.jpg",
+        "name": "hindustan times.in",
+        "url": "https://www.hindustantimes.com/videos/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wccbcharlotte.jpg",
+        "name": "wccb charlotte",
+        "url": "https://www.wccbcharlotte.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/StockPhoto.jpg",
+        "name": "Stock Photo",
+        "url": "https://www.canstockphoto.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/artnet.jpg",
+        "name": "artnet",
+        "url": "http://www.artnet.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/depositphotos.jpg",
+        "name": "deposit photos",
+        "url": "https://depositphotos.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dpreview.jpg",
+        "name": "dpreview",
+        "url": "https://www.dpreview.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/touropia.jpg",
+        "name": "touropia",
+        "url": "https://www.touropia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/planetware.jpg",
+        "name": "planetware",
+        "url": "https://www.planetware.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quatrorodas.br.jpg",
+        "name": "quatrorodas.br",
+        "url": "https://quatrorodas.abril.com.br/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rtd.rt.jpg",
+        "name": "rtd.rt",
+        "url": "https://rtd.rt.com/on-air/"
+      }
+    ]
+  },
+  {
+    "key": "shop",
+    "name": "Shopping",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/alibaba.jpg",
+        "name": "Alibaba",
+        "url": "https://www.alibaba.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/amazon.jpg",
+        "name": "Amazon",
+        "url": "https://www.amazon.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/ebay.jpg",
+        "name": "Ebay",
+        "url": "https://www.ebay.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/aliexpress.jpg",
+        "name": "Aliexpress",
+        "url": "https://www.aliexpress.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/jumia.jpg",
+        "name": "Jumia",
+        "url": "https://www.jumia.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/olx.jpg",
+        "name": "olx",
+        "url": "https://www.olx.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/souq.jpg",
+        "name": "Souq",
+        "url": "https://www.souq.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/etsy.jpg",
+        "name": "Etsy",
+        "url": "https://www.etsy.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ubuy.tr.jpg",
+        "name": "ubuy.tr",
+        "url": "https://www.ubuy.com.tr/tr/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lazada.th.jpg",
+        "name": "lazada.th",
+        "url": "https://www.lazada.co.th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/powerbuy.th,en.jpg",
+        "name": "powerbuy.th,en",
+        "url": "https://www.powerbuy.co.th/en"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/shopat24.th,en.jpg",
+        "name": "shopat24.th,en",
+        "url": "https://www.shopat24.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/decathlon.th,en.jpg",
+        "name": "decathlon.th,en",
+        "url": "https://www.decathlon.co.th/th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/redwingimports.th,en.jpg",
+        "name": "redwingimports.th,en",
+        "url": "https://redwingimports.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/iplandigital.th.jpg",
+        "name": "iplan digital.th",
+        "url": "https://www.iplandigital.co.th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chiangraitimes.jpg",
+        "name": "chiangrai times",
+        "url": "https://www.chiangraitimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/my-thai.jpg",
+        "name": "my-thai",
+        "url": "https://my-thai.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/goodyfeed.jpg",
+        "name": "goody feed",
+        "url": "https://goodyfeed.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/shop&ship.th.jpg",
+        "name": "shop&ship.th",
+        "url": "https://www.shopandship.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/snapdeal.in.jpg",
+        "name": "snapdeal.in",
+        "url": "https://snapdeal.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/subito.it.jpg",
+        "name": "subito.it",
+        "url": "https://subito.it"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ceneo.pl.jpg",
+        "name": "ceneo.pl",
+        "url": "https://ceneo.pl"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kijiji.ca.jpg",
+        "name": "kijiji.ca",
+        "url": "https://kijiji.ca"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ElCorteInglés.jpg",
+        "name": "El Corte Inglés",
+        "url": "https://elcorteingles.es"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/쿠팡!.jpg",
+        "name": "쿠팡!",
+        "url": "https://coupang.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji,ng.jpg",
+        "name": "jiji,ng",
+        "url": "https://jiji.ng"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/olx,br.jpg",
+        "name": "olx,br",
+        "url": "https://olx.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sears.jpg",
+        "name": "sears",
+        "url": "https://www.sears.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/CHANEL.jpg",
+        "name": "CHANEL",
+        "url": "https://www.chanel.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Bestbuy.jpg",
+        "name": "Best buy",
+        "url": "https://www.bestbuy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/konga.ng.jpg",
+        "name": "konga.ng",
+        "url": "https://www.konga.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ayibamagazine.jpg",
+        "name": "ayiba magazine",
+        "url": "http://ayibamagazine.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cjdropshipping_ng.jpg",
+        "name": "cjdrop shipping_ng",
+        "url": "https://app.cjdropshipping.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.tr.jpg",
+        "name": "السوق المفتوح.tr",
+        "url": "https://tr.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hometown.in.jpg",
+        "name": "hometown.in",
+        "url": "https://www.hometown.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yepmein.jpg",
+        "name": "yepmein",
+        "url": "http://yepme.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/craftsvilla.in.jpg",
+        "name": "craftsvilla.in",
+        "url": "https://www.craftsvilla.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/firstcry.in.jpg",
+        "name": "firstcry.in",
+        "url": "https://www.firstcry.com/?ref=adm__706724fb00df8aada4a35c40dcad8981&utm_source=adm&utm_medium=aff&utm_content=adm--608494"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/compare.buyhatke.in.jpg",
+        "name": "compare.buyhatke.in",
+        "url": "https://compare.buyhatke.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lenskart.in.jpg",
+        "name": "lenskart.in",
+        "url": "https://www.lenskart.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mirraw.in.jpg",
+        "name": "mirraw.in",
+        "url": "https://www.mirraw.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/printvenue.in.jpg",
+        "name": "printvenue.in",
+        "url": "https://www.printvenue.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/myntra.in.jpg",
+        "name": "myntra.in",
+        "url": "https://www.myntra.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ebay,in.jpg",
+        "name": "ebay,in",
+        "url": "https://in.ebay.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/shopclues.in.jpg",
+        "name": "shopclues.in",
+        "url": "https://www.shopclues.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bookmyshow.in.jpg",
+        "name": "book my show.in",
+        "url": "https://in.bookmyshow.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mysmartprice.in.jpg",
+        "name": "my smart price.in",
+        "url": "https://www.mysmartprice.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/desidime.in.jpg",
+        "name": "desidime.in",
+        "url": "https://www.desidime.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/freekaamaal.in.jpg",
+        "name": "freekaamaal.in",
+        "url": "https://freekaamaal.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/DNS.ru.jpg",
+        "name": "DNS.ru",
+        "url": "https://www.dns-shop.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Exist.ru.jpg",
+        "name": "Exist.ru",
+        "url": "https://exist.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/biglion.ru.jpg",
+        "name": "biglion.ru",
+        "url": "https://www.biglion.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mob4me.eg.jpg",
+        "name": "mob4me.eg",
+        "url": "https://mob4me.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rayashop.eg.jpg",
+        "name": "raya shop.eg",
+        "url": "https://www.rayashop.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mobileshop.eg.jpg",
+        "name": "mobile shop.eg",
+        "url": "https://www.mobileshop.com.eg/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/avon.eg.jpg",
+        "name": "avon.eg",
+        "url": "https://www.avon.com.eg/eg-home"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/spinneys.ae.jpg",
+        "name": "spinneys.ae",
+        "url": "https://www.spinneys.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cairosales.eg.jpg",
+        "name": "cairo sales.eg",
+        "url": "https://cairosales.com/ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/btech,eg.jpg",
+        "name": "btech,eg",
+        "url": "https://btech.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اكسترا.sa.jpg",
+        "name": "اكسترا.sa",
+        "url": "https://www.extra.com/ar-sa"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/مكتبةجرير.sa.jpg",
+        "name": "مكتبة جرير.sa",
+        "url": "https://www.jarir.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/مستعمل.sa.jpg",
+        "name": "مستعمل.sa",
+        "url": "https://www.mstaml.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hmall.ma.jpg",
+        "name": "hmall.ma",
+        "url": "http://www.hmall.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/citymall.ma.jpg",
+        "name": "citymall.ma",
+        "url": "http://www.citymall.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mobilia.ma.jpg",
+        "name": "mobilia.ma",
+        "url": "https://www.mobilia.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/oriflame.ma.jpg",
+        "name": "oriflame.ma",
+        "url": "https://ma.oriflame.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kokoko.ma.jpg",
+        "name": "kokoko.ma",
+        "url": "http://www.richbond.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/MarocVente.jpg",
+        "name": "Maroc Vente",
+        "url": "http://www.mv.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/JakartaNotebook.id.jpg",
+        "name": "Jakarta Notebook.id ",
+        "url": "https://www.jakartanotebook.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lazada.id.jpg",
+        "name": "lazada.id",
+        "url": "https://www.lazada.co.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/elevenia.id.jpg",
+        "name": "elevenia.id",
+        "url": "https://www.elevenia.co.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dinomarket.id.jpg",
+        "name": "dino market.id",
+        "url": "https://www.dinomarket.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/slot.ng.jpg",
+        "name": "slot.ng",
+        "url": "https://slot.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/daraz.pk.jpg",
+        "name": "daraz.pk",
+        "url": "https://www.daraz.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/shophive.pk.jpg",
+        "name": "shop hive.pk",
+        "url": "https://www.shophive.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/homeshopping.pk.jpg",
+        "name": "home shopping.pk",
+        "url": "https://homeshopping.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mega.pk.jpg",
+        "name": "mega.pk",
+        "url": "https://www.mega.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/galaxy.pk.jpg",
+        "name": "galaxy.pk",
+        "url": "https://galaxy.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mobilenmobile.pk.jpg",
+        "name": "mobilen mobile.pk",
+        "url": "https://mobilenmobile.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/five.vn.jpg",
+        "name": "five.vn",
+        "url": "https://five.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/shopee.vn.jpg",
+        "name": "shopee.vn",
+        "url": "https://shopee.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/samsung.vn.jpg",
+        "name": "samsung.vn",
+        "url": "https://shop.samsung.com/vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lazada.vn.jpg",
+        "name": "lazada.vn",
+        "url": "https://www.lazada.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vatgia.vn.jpg",
+        "name": "vatgia.vn",
+        "url": "https://vatgia.com/home/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thegioididong.vn.jpg",
+        "name": "thegioididong.vn",
+        "url": "https://www.thegioididong.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/FPTtshop.vn.jpg",
+        "name": "FPTtshop.vn",
+        "url": "https://fptshop.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sendo.vn.jpg",
+        "name": "sendo.vn",
+        "url": "https://www.sendo.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/worldwide.zalora.vn.jpg",
+        "name": "worldwide.zalora.vn",
+        "url": "https://worldwide.zalora.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/welove.th.jpg",
+        "name": "we love.th",
+        "url": "https://portal.weloveshopping.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tarad.th.jpg",
+        "name": "tarad.th",
+        "url": "https://www.tarad.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/craigslis.tn.jpg",
+        "name": "craigslis. tn",
+        "url": "https://craigslist.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wiruji.id.jpg",
+        "name": "wiruji.id",
+        "url": "https://www.wiruji.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indonesia-market,id.jpg",
+        "name": "indonesia-market,id",
+        "url": "https://indonesia-market.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/creativemarket.jpg",
+        "name": "creative market",
+        "url": "https://creativemarket.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/noon.en.jpg",
+        "name": "noon.en",
+        "url": "https://www.noon.com/saudi-en/ajmal"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/noon.en.jpg",
+        "name": "noon.en",
+        "url": "https://www.noon.com/egypt-en/ajmal"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Namshi.ar.en.jpg",
+        "name": "Namshi.ar.en",
+        "url": "https://www.namshi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/محموعةالشايعsa.jpg",
+        "name": "محموعة الشايعsa",
+        "url": "https://www.alshaya.com/ar/brands/fashion-footwear/h-m/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/h&m.sa.jpg",
+        "name": "h&m.sa",
+        "url": "https://sa.hm.com/ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/next,sa.jpg",
+        "name": "next,sa",
+        "url": "https://www.next.sa/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ليبياشوبز.jpg",
+        "name": "ليبيا شوبز",
+        "url": "https://www.libyashopz.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/تخفيضاتي.jpg",
+        "name": "تخفيضاتي",
+        "url": "https://www.takhfedaty.com/مواقع-تسوق-اون-لاين-في-العراق/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Souq.eg.jpg",
+        "name": "Souq.eg",
+        "url": "https://egypt.souq.com/eg-ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Souq.sa.jpg",
+        "name": "Souq.sa",
+        "url": "https://saudi.souq.com/sa-ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/eMAG.ro.jpg",
+        "name": "eMAG.ro",
+        "url": "https://emag.ro"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mercadolivre.br.jpg",
+        "name": "mercado livre .br",
+        "url": "https://mercadolivre.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wish.jpg",
+        "name": "wish",
+        "url": "https://wish.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indiamart.in.jpg",
+        "name": "indiamart.in",
+        "url": "https://indiamart.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gumtree.jpg",
+        "name": "gumtree",
+        "url": "https://gumtree.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/slickdeals.jpg",
+        "name": "slickdeals",
+        "url": "https://slickdeals.net"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/shopee.id.jpg",
+        "name": "shopee.id",
+        "url": "https://shopee.co.id"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/liputan6.id.jpg",
+        "name": "liputan6.id",
+        "url": "https://liputan6.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/olx.br.jpg",
+        "name": "olx.br",
+        "url": "https://olx.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tripadvisor.en.jpg",
+        "name": "trip advisor.en",
+        "url": "https://www.tripadvisor.com/Attractions-g294280-Activities-c26-Brazil.html"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.de.jpg",
+        "name": "jiji.de",
+        "url": "https://jiji-de-jiji.tumblr.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/next,sa.jpg",
+        "name": "next,sa",
+        "url": "https://www.next.us/en/baby"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.ly.jpg",
+        "name": "السوق المفتوح .ly",
+        "url": "https://ly.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.sa.jpg",
+        "name": "السوق المفتوح.sa",
+        "url": "https://sa.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سوقلبيب.sa.jpg",
+        "name": "سوق لبيب .sa",
+        "url": "https://sa.labeb.com/souq"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سوقحراجالمفتوح.sa.jpg",
+        "name": "سوق حراج المفتوح.sa",
+        "url": "https://www.haraj.com.sa/tags/%D8%B3%D9%88%D9%82%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%E2%80%8F"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.eg.jpg",
+        "name": "السوق المفتوح.eg",
+        "url": "https://eg.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/paytm.jpg",
+        "name": "pay tm",
+        "url": "https://paytm.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Qulikr.in.jpg",
+        "name": "Qulikr.in",
+        "url": "https://www.quikr.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/heavy.jpg",
+        "name": "heavy",
+        "url": "https://heavy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/heavymag.au.jpg",
+        "name": "heavy mag.au",
+        "url": "https://heavymag.com.au/?v=c2d75724334c"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.ma.jpg",
+        "name": "السوق المفتوح.ma",
+        "url": "https://ma.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.dz.jpg",
+        "name": "السوق المفتوح.dz",
+        "url": "https://dz.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.tn.jpg",
+        "name": "السوق المفتوح.tn",
+        "url": "https://tn.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.sd.jpg",
+        "name": "السوق المفتوح.sd",
+        "url": "https://sd.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.mr.jpg",
+        "name": "السوق المفتوح.mr",
+        "url": "https://mr.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.ps.jpg",
+        "name": "السوق المفتوح.ps",
+        "url": "https://ps.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.jo.jpg",
+        "name": "السوق المفتوح.jo",
+        "url": "https://jo.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.lb.jpg",
+        "name": "السوق المفتوح.lb",
+        "url": "https://lb.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.sy.jpg",
+        "name": "السوق المفتوح.sy",
+        "url": "https://sy.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.iq.jpg",
+        "name": "السوق المفتوح.iq",
+        "url": "https://iq.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.kw.jpg",
+        "name": "السوق المفتوح.kw",
+        "url": "https://kw.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.ae.jpg",
+        "name": "السوق المفتوح.ae",
+        "url": "https://ae.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.qa.jpg",
+        "name": "السوق المفتوح.qa",
+        "url": "https://qa.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.bh.jpg",
+        "name": "السوق المفتوح.bh",
+        "url": "https://bh.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.om.jpg",
+        "name": "السوق المفتوح.om",
+        "url": "https://om.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السوقالمفتوح.ye.jpg",
+        "name": "السوق المفتوح.ye",
+        "url": "https://ye.opensooq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سوقالعرب.so.jpg",
+        "name": "سوق العرب.so",
+        "url": "https://so.sogarab.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/,jiji.blog.jpg",
+        "name": ",jiji.blog",
+        "url": "https://jiji-blog.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dmm.jp.jpg",
+        "name": "dmm.jp",
+        "url": "https://dmm.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اسواقستي.sa.jpg",
+        "name": "اسواق ستي.sa",
+        "url": "https://www.aswaqcity.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sahibinden.tr.jpg",
+        "name": "sahibinden.tr",
+        "url": "https://sahibinden.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yargici,en.jpg",
+        "name": "yargici,en",
+        "url": "https://www.yargici.com/en"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wayfair.jpg",
+        "name": "wayfair",
+        "url": "https://wayfair.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vipbrands.en.ar.jpg",
+        "name": "vipbrands.en.ar",
+        "url": "https://www.vipbrands.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.usa.jpg",
+        "name": "jiji.usa",
+        "url": "https://jiji.lnk.to/USA_CJD"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.jen.jpg",
+        "name": "jiji.jen",
+        "url": "https://jen.jiji.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.sg.jpg",
+        "name": "jiji.sg",
+        "url": "https://jiji.sg/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.gh.jpg",
+        "name": "jiji.gh",
+        "url": "https://jiji.com.gh/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.ug.jpg",
+        "name": "jiji.ug",
+        "url": "https://jiji.ug/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/olx.in.jpg",
+        "name": "olx.in",
+        "url": "https://www.olx.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/olx.pk.jpg",
+        "name": "olx.pk",
+        "url": "https://www.olx.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vova.jpg",
+        "name": "vova",
+        "url": "https://www.vova.com.tw/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/benetton.jpg",
+        "name": "benetton",
+        "url": "https://www.benetton.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/adl.en.jpg",
+        "name": "adl.en",
+        "url": "https://www.adl.com.tr/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/modanisa.jpg",
+        "name": "modanisa",
+        "url": "https://www.modanisa.com/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/DICK'SSportingGoods.jpg",
+        "name": "DICK'S Sporting Goods",
+        "url": "https://www.dickssportinggoods.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fanatics.jpg",
+        "name": "fanatics",
+        "url": "https://www.fanatics.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ubuy.tr.jpg",
+        "name": "ubuy.tr",
+        "url": "https://www.ubuy.com.tr/tr/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/adl.tr.jpg",
+        "name": "adl.tr",
+        "url": "https://www.adl.com.tr/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/価格.com.jpg",
+        "name": "価格.com",
+        "url": "https://kakaku.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/trovit.us.jpg",
+        "name": "trovit.us",
+        "url": "https://trovit.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/modanisa.id.jpg",
+        "name": "modanisa.id",
+        "url": "https://www.modanisa.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/noon.en.jpg",
+        "name": "noon.en",
+        "url": "https://www.noon.com/uae-en/ajmal"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/targettrade.in.jpg",
+        "name": "target trade.in",
+        "url": "https://targettrade-in.com/online/home/index.rails"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/targetoptical.jpg",
+        "name": "target optical",
+        "url": "https://www.targetoptical.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fekati.iq_ar.jpg",
+        "name": "fekati.iq_ar",
+        "url": "https://fekati.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/aolshop.jpg",
+        "name": "aol shop",
+        "url": "https://www.aol.com/shop/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sefamerve.jpg",
+        "name": "sefamerve",
+        "url": "https://www.sefamerve.com/"
+      },
+      {
+        "icon": "R.okcupid",
+        "name": "craigslist",
+        "url": "https://sfbay.craigslist.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/limeroad.in.jpg",
+        "name": "limeroad.in",
+        "url": "https://www.limeroad.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/2gud.in.jpg",
+        "name": "2gud.in",
+        "url": "https://www.2gud.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bigbasket.in.jpg",
+        "name": "big basket.in",
+        "url": "https://www.bigbasket.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.ke.jpg",
+        "name": "jiji.ke",
+        "url": "https://jiji.co.ke/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jiji.tz.jpg",
+        "name": "jiji.tz",
+        "url": "https://jiji.co.tz/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/justdial.jpg",
+        "name": "justdial",
+        "url": "https://www.justdial.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quatrorodas.br.jpg",
+        "name": "quatrorodas.br",
+        "url": "https://quatrorodas.abril.com.br/"
+      }
+    ]
+  },
+  {
+    "key": "news",
+    "name": "News",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/reddit.jpg",
+        "name": "Reddit",
+        "url": "https://www.reddit.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/investing.jpg",
+        "name": "Investing",
+        "url": "https://www.investing.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/topbuzz.jpg",
+        "name": "Top Buzz",
+        "url": "https://www.topbuzz.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/aolnews.jpg",
+        "name": "aol news",
+        "url": "https://www.aol.com/news"
+      },
+      {
+        "icon": "file:///android_asset/icons/news18.jpg",
+        "name": "news18 हिन्दी",
+        "url": "https://hindi.news18.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/thaiexaminer.th.jpg",
+        "name": "thai examiner.th",
+        "url": "https://www.thaiexaminer.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/chiangraitimes.jpg",
+        "name": "chiangrai times",
+        "url": "https://www.chiangraitimes.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/my-thai.jpg",
+        "name": "my-thai",
+        "url": "https://my-thai.org/"
+      },
+      {
+        "icon": "file:///android_asset/icons/goodyfeed.jpg",
+        "name": "goody feed",
+        "url": "https://goodyfeed.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailysabah.jpg",
+        "name": "dailysabah",
+        "url": "https://www.dailysabah.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ayibamagazine.jpg",
+        "name": "ayiba magazine",
+        "url": "http://ayibamagazine.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zeenews.in.jpg",
+        "name": "zee news.in",
+        "url": "https://zeenews.india.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jagran.in.jpg",
+        "name": "jagran.in",
+        "url": "https://www.jagran.com/technology-hindi.html?itm_medium=tech&itm_source=dsktp&itm_campaign=navigation"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Газета.ru.jpg",
+        "name": "Газета.ru",
+        "url": "https://www.gazeta.ru/?refresh"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/TASS.ru.jpg",
+        "name": "TASS.ru",
+        "url": "https://tass.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/regnum.ru.jpg",
+        "name": "regnum.ru",
+        "url": "https://regnum.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/AIF.RU.jpg",
+        "name": "AIF.RU",
+        "url": "https://aif.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اليومالسابع.eg.jpg",
+        "name": "اليوم السابع.eg",
+        "url": "https://www.youm7.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المصرياليوم.eg.jpg",
+        "name": "المصري اليوم.eg",
+        "url": "https://www.almasryalyoum.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/بوابةالفجر.eg.jpg",
+        "name": "بوابة الفجر.eg",
+        "url": "https://www.elfagr.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/البوابةنيوز.eg.jpg",
+        "name": "البوابة نيوز .eg",
+        "url": "https://www.albawabhnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الدستور.eg.jpg",
+        "name": "الدستور.eg",
+        "url": "https://www.dostor.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/بوابةفيتو.eg.jpg",
+        "name": "بوابة فيتو.eg",
+        "url": "https://vetogate.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الوطن.eg.jpg",
+        "name": "الوطن.eg",
+        "url": "https://www.elwatannews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الوفد.eg.jpg",
+        "name": "الوفد.eg",
+        "url": "https://alwafd.news/?__cf_chl_jschl_tk__=abfc0e53a158cf499e32f0385d0bb081b66e0098-1602260890-0-ASP9YfQ3QhFTCRdUTkpVs1buU6ZPxsQ9jJLeuWqnZQC9buhnih8VLwFEjW_G3ty03T4BineoGhmztvA3RL5p4Nc1z-bWQJ26BEwUfhuG8FvM17fIAZ8yoHtNUwHAu_yarhr8i7Gdmlb6e4QVjRI9Edteanlk9UlvpacXuaRkYNrfgpVEgnAJs6Uu13oRG2bd_rJ4VILEWZ1P14qwphd1gojRLp0vE-pb4p_QcICWUxfLrRpCI0_7AOn-cdySlxLUA7JQBcazl9j05LT2ch7MtWg"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الموجز.eg.jpg",
+        "name": "الموجز.eg",
+        "url": "https://www.elmogaz.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/مصراوي.eg.jpg",
+        "name": "مصراوي.eg",
+        "url": "https://www.masrawy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/النيل.eg.jpg",
+        "name": "النيل.eg",
+        "url": "https://www.nile.eg/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الصدى.sa.jpg",
+        "name": "الصدى.sa",
+        "url": "https://www.slaati.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المرصد/sa.jpg",
+        "name": "المرصد/sa",
+        "url": "https://al-marsd.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الرياض.sa.jpg",
+        "name": "الرياض.sa",
+        "url": "http://www.alriyadh.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/عكاظ.sa.jpg",
+        "name": "عكاظ.sa",
+        "url": "https://www.okaz.com.sa/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الرياض.sa.jpg",
+        "name": "الرياض.sa",
+        "url": "http://www.alriyadh.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الوطن.sa.jpg",
+        "name": "الوطن.sa",
+        "url": "https://www.kolalwatn.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/arabnews.jpg",
+        "name": "arab news",
+        "url": "https://www.arabnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المواطن.sa.jpg",
+        "name": "المواطن.sa",
+        "url": "https://www.almowaten.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/البوابة.sa.jpg",
+        "name": "البوابة.sa",
+        "url": "https://www.albawaba.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/guide_lgerie.dz.jpg",
+        "name": "guide_lgerie.dz",
+        "url": "http://www.guide-algerie.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/النهار.dz.jpg",
+        "name": "النهار.dz",
+        "url": "https://www.ennaharonline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jeune_independant.dz.jpg",
+        "name": "jeune_independant.dz",
+        "url": "https://www.jeune-independant.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lesoir.dz.jpg",
+        "name": "lesoir.dz",
+        "url": "https://www.lesoirdalgerie.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/depechedekabylie.dz.jpg",
+        "name": "depechedekabylie.dz",
+        "url": "https://www.depechedekabylie.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الوسط.dz.jpg",
+        "name": "الوسط.dz",
+        "url": "https://www.elwassat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الجمهورية.dz.jpg",
+        "name": "الجمهورية.dz",
+        "url": "https://www.eldjoumhouria.dz/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lejour.dz.jpg",
+        "name": "lejour.dz",
+        "url": "https://lejourdalgerie.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/algerie1.dz.jpg",
+        "name": "algerie1.dz",
+        "url": "https://www.algerie1.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tamurt.dz.jpg",
+        "name": "tamurt.dz",
+        "url": "https://tamurt.info/fr/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/BerbereTV,dz.jpg",
+        "name": "BerbereTV,dz",
+        "url": "https://www.dailymotion.com/BerbereTV"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الجلفة.dz.jpg",
+        "name": "الجلفة.dz",
+        "url": "https://www.djelfa.info/ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tsa.dz.jpg",
+        "name": "tsa.dz",
+        "url": "https://www.tsa-algerie.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/بوابةالونشريس.dz.jpg",
+        "name": "بوابة الونشريس.dz",
+        "url": "https://www.ouarsenis.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/algerie360.dz.jpg",
+        "name": "algerie360.dz",
+        "url": "https://www.algerie360.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/algeriepatriotique.jpg",
+        "name": "algeriepatriotique",
+        "url": "https://www.algeriepatriotique.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المساء.dz.jpg",
+        "name": "المساء.dz",
+        "url": "https://www.el-massa.com/dz/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/النصر.dz.jpg",
+        "name": "النصر.dz",
+        "url": "https://www.annasronline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/هسبريس.ma.jpg",
+        "name": "هسبريس.ma",
+        "url": "https://www.hespress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/هبةبريس.ma.jpg",
+        "name": "هبة بريس.ma",
+        "url": "https://ar.hibapress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اخبارنا.ma.jpg",
+        "name": "اخبارنا.ma",
+        "url": "https://www.akhbarona.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/كيفاش.ma.jpg",
+        "name": "كيفاش.ma",
+        "url": "https://kifache.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المغرباليوم.ma.jpg",
+        "name": "المغرب اليوم.ma",
+        "url": "https://www.almaghribtoday.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سوس24.ma.jpg",
+        "name": "سوس24.ma",
+        "url": "https://www.souss24.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/moroccoworldnews.jpg",
+        "name": "morocco world news",
+        "url": "https://www.moroccoworldnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/مغرس.jpg",
+        "name": "مغرس",
+        "url": "https://www.maghress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/دليلالريف.ma.jpg",
+        "name": "دليل الريف.ma",
+        "url": "https://dalil-rif.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ناظورستي.ma.jpg",
+        "name": "ناظور ستي.ma",
+        "url": "https://www.nadorcity.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/بريستطوان.ma.jpg",
+        "name": "بريس تطوان.ma",
+        "url": "https://presstetouan.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اكادير.ma.jpg",
+        "name": "اكادير.ma",
+        "url": "https://agadir24.info/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/فرجالمغرب.jpg",
+        "name": "فرج المغرب",
+        "url": "https://foutni.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الصباح.ma.jpg",
+        "name": "الصباح.ma",
+        "url": "https://assabah.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/السومرية.jpg",
+        "name": "السومرية",
+        "url": "https://www.alsumaria.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rudawku.jpg",
+        "name": "rudaw ku",
+        "url": "https://www.rudaw.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/basnews.ku.so.jpg",
+        "name": "bas news.ku.so",
+        "url": "https://www.basnews.com/so/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/basnews.ku.en.jpg",
+        "name": "bas news.ku.en",
+        "url": "https://www.basnews.com/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rudawku.en.jpg",
+        "name": "rudaw ku.en",
+        "url": "https://www.rudaw.net/english"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdiu.ku.en.jpg",
+        "name": "kurdiu.ku.en",
+        "url": "https://www.kurdiu.org/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/xendan.ku.jpg",
+        "name": "xendan.ku",
+        "url": "https://www.xendan.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/لفين.fa.jpg",
+        "name": "لفين.fa",
+        "url": "https://lvinpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/كتبات.iq.jpg",
+        "name": "كتبات.iq",
+        "url": "https://kitabat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/شفقiq.jpg",
+        "name": "شفقiq",
+        "url": "https://shafaq.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المدى,iq.jpg",
+        "name": "المدى,iq",
+        "url": "https://almadapaper.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ئاوێنە.jpg",
+        "name": "ئاوێنە",
+        "url": "https://www.awene.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/imn.iq.jpg",
+        "name": "imn.iq",
+        "url": "https://imn.iq/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الفراتنيوز.iq.jpg",
+        "name": "الفرات نيوز.iq",
+        "url": "https://alforatnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المدي.iq.jpg",
+        "name": "المدي.iq",
+        "url": "https://almadapress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الشرقيةiq.jpg",
+        "name": "الشرقيةiq",
+        "url": "https://alsharqiya.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الناصرية.iq.jpg",
+        "name": "الناصرية.iq",
+        "url": "https://ar.nasiriyah.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الصباحiq.jpg",
+        "name": "الصباحiq",
+        "url": "https://www.alsabaah.iq/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الرشيديةiq.jpg",
+        "name": "الرشيديةiq",
+        "url": "https://www.alrasheedmedia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الزمان.iq.jpg",
+        "name": "الزمان.iq",
+        "url": "https://www.azzaman.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/20.detik.id.jpg",
+        "name": "20.detik.id",
+        "url": "https://20.detik.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tribunnews.id.jpg",
+        "name": "tribun news.id",
+        "url": "https://www.tribunnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/merdeka.id.jpg",
+        "name": "merdeka.id",
+        "url": "https://www.merdeka.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/legit.ng.jpg",
+        "name": "legit.ng",
+        "url": "https://www.legit.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thenation,ng.jpg",
+        "name": "the nation,ng",
+        "url": "https://thenationonlineng.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vanguard.ng.jpg",
+        "name": "vanguard.ng",
+        "url": "https://www.vanguardngr.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/punchlogo.ng.jpg",
+        "name": "punchlogo.ng",
+        "url": "https://punchng.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailypost.ng.jpg",
+        "name": "dailypost.ng",
+        "url": "https://dailypost.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/premiumtime.ng.jpg",
+        "name": "premium time.ng",
+        "url": "https://www.premiumtimesng.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/information.ng.jpg",
+        "name": "information.ng",
+        "url": "https://www.informationnigeria.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/theguadian.ng.jpg",
+        "name": "the guadian.ng",
+        "url": "https://guardian.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailytrust.ng.jpg",
+        "name": "dailytrust.ng",
+        "url": "https://dailytrust.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thisdaylive.ng.jpg",
+        "name": "this day live.ng",
+        "url": "https://www.thisdaylive.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sunnews.ng.jpg",
+        "name": "sun news.ng",
+        "url": "https://www.sunnewsonline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thecable.ng.jpg",
+        "name": "the cable.ng",
+        "url": "https://thecable.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bulletin.ng.jpg",
+        "name": "bulletin.ng",
+        "url": "https://www.nigerianbulletin.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/leadership.ng.jpg",
+        "name": "leader ship.ng",
+        "url": "https://leadership.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ynaija.ng.jpg",
+        "name": "ynaija.ng",
+        "url": "https://ynaija.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pmnews.ng.jpg",
+        "name": "pmn ews.ng",
+        "url": "https://www.pmnewsnigeria.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/naijagists.ng.jpg",
+        "name": "naija gists.ng",
+        "url": "https://naijagists.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nigerianeye.ng.jpg",
+        "name": "nigerianeye.ng",
+        "url": "https://www.nigerianeye.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/trentonline.ng.jpg",
+        "name": "trent online.ng",
+        "url": "https://www.thetrentonline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/urdupoint.pk.jpg",
+        "name": "urdu point.pk",
+        "url": "https://www.urdupoint.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/urdumaza.pk.jpg",
+        "name": "urdu maza.pk",
+        "url": "https://dailypakistan.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/daily.pk.jpg",
+        "name": "daily.pk",
+        "url": "https://dailypakistan.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/diyanews.pk.jpg",
+        "name": "diya news.pk",
+        "url": "https://diyatv.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/web.pk.jpg",
+        "name": "web.pk",
+        "url": "https://ww.web.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dawnen.pk.jpg",
+        "name": "dawn en.pk",
+        "url": "https://www.dawn.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/express.pk.jpg",
+        "name": "express.pk",
+        "url": "https://www.express.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tribune.pk.jpg",
+        "name": "tribune.pk",
+        "url": "https://tribune.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/expressnews.pk.jpg",
+        "name": "express news.pk",
+        "url": "https://www.express.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jang.pk.jpg",
+        "name": "jang.pk",
+        "url": "https://jang.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dawnur.pk.jpg",
+        "name": "dawn ur.pk",
+        "url": "https://www.dawnnews.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dunya.pk.jpg",
+        "name": "dunya.pk",
+        "url": "https://dunya.com.pk/index.php"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/defence.pk.jpg",
+        "name": "defence.pk",
+        "url": "https://defence.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/asalmedia.pk.jpg",
+        "name": "asal media.pk",
+        "url": "https://www.asalmedia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nawaiwaqt.pk.jpg",
+        "name": "nawaiwaqt.pk",
+        "url": "https://www.nawaiwaqt.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nation.pk.jpg",
+        "name": "nation.pk",
+        "url": "https://nation.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/aaj.pk.jpg",
+        "name": "aaj.pk",
+        "url": "https://www.aaj.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pakistantoday.pk.jpg",
+        "name": "pakistan today.pk",
+        "url": "https://www.pakistantoday.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailytimes.pk.jpg",
+        "name": "daily times.pk",
+        "url": "https://dailytimes.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailyaaj.pk.jpg",
+        "name": "daily aaj.pk",
+        "url": "https://www.dailyaaj.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/urduwire.pk.jpg",
+        "name": "urdu wire.pk",
+        "url": "https://urduwire.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mashriqtv.pk.jpg",
+        "name": "mashriq tv.pk",
+        "url": "https://mashriqtv.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jasarat.pk.jpg",
+        "name": "jasarat.pk",
+        "url": "https://www.jasarat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zing.vn.jpg",
+        "name": "zing .vn",
+        "url": "https://zingnews.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zingnews.vn.jpg",
+        "name": "zing news.vn",
+        "url": "https://zingnews.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vnexpress.vn.jpg",
+        "name": "vnex press.vn",
+        "url": "https://vnexpress.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/24h.vn.jpg",
+        "name": "24h.vn",
+        "url": "https://www.24h.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Kênh14.vn.jpg",
+        "name": "Kênh 14.vn",
+        "url": "https://kenh14.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dantri.vn.jpg",
+        "name": "dantri.vn",
+        "url": "https://dantri.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/BáoVietNamNet.vn.jpg",
+        "name": "Báo VietNam Net .vn",
+        "url": "https://vietnamnet.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/doisongphapluat.vn.jpg",
+        "name": "doisong phapluat.vn",
+        "url": "https://www.doisongphapluat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Báomoi.vn.jpg",
+        "name": "Báo moi.vn",
+        "url": "https://baomoi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/soha.vn.jpg",
+        "name": "soha.vn",
+        "url": "https://soha.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vtc.vn.jpg",
+        "name": "vtc.vn",
+        "url": "https://vtc.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thaiza.th.jpg",
+        "name": "thaiza.th",
+        "url": "https://www.thaiza.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ผู้จัดการออนไลน์.jpg",
+        "name": "ผู้จัดการออนไลน์ ",
+        "url": "https://mgronline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ข่าวสด.jpg",
+        "name": "ข่าวสด",
+        "url": "https://www.khaosod.co.th/home"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/matichon.th.jpg",
+        "name": "matichon.th",
+        "url": "https://www.matichon.co.th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailynews.th.jpg",
+        "name": "daily news.th",
+        "url": "https://dailynews.co.th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/posttoday.th.jpg",
+        "name": "post today.th",
+        "url": "https://www.posttoday.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/komchadluek.th.jpg",
+        "name": "komchadluek.th",
+        "url": "https://www.komchadluek.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/globo.br.jpg",
+        "name": "globo.br",
+        "url": "https://www.globo.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/antaranews.id.jpg",
+        "name": "antara news.id",
+        "url": "https://en.antaranews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/w3newspapers.id.jpg",
+        "name": "w3 newspapers.id",
+        "url": "https://www.w3newspapers.com/indonesia/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thejakartapost.id.jpg",
+        "name": "the jakarta post.id",
+        "url": "https://www.thejakartapost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdistantv.ku.jpg",
+        "name": "kurdistan tv.ku",
+        "url": "https://kurdistantv.net/ku/live"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdistan24.ku.jpg",
+        "name": "kurdistan24.ku",
+        "url": "https://www.kurdistan24.net/en/LiveWatch/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rudawtv.ku.jpg",
+        "name": "rudaw tv.ku",
+        "url": "https://www.rudaw.net/english/onair/tv/live"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ndtv.in.jpg",
+        "name": "ndtv.in",
+        "url": "https://ndtv.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Aajtak.hi.jpg",
+        "name": "Aaj tak.hi",
+        "url": "https://aajtak.intoday.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/liputan6.id.jpg",
+        "name": "liputan6.id",
+        "url": "https://liputan6.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indiatimes.in.jpg",
+        "name": "indiatimes.in",
+        "url": "https://indiatimes.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/russia-insider.jpg",
+        "name": "russia-insider",
+        "url": "https://russia-insider.com/en"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/.bbc.russia.jpg",
+        "name": ".bbc.russia",
+        "url": "https://www.bbc.com/news/topics/ce1qrvlegnyt/russia"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/.bbc.brazil.jpg",
+        "name": ".bbc.brazil",
+        "url": "https://www.bbc.com/news/topics/cmj34zmw77wt/brazil"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/SAHARKURDISH.jpg",
+        "name": "SAHAR KURDISH",
+        "url": "http://kurdish.sahartv.ir/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/i_kurdish,tv.jpg",
+        "name": "i_kurdish,tv",
+        "url": "http://www.i-kurdish.net/p/kurdistantv.html"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdistantv.jpg",
+        "name": "kurdistantv",
+        "url": "https://kurdistantv.net/ku/live"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress.in.jpg",
+        "name": "indianexpress.in",
+        "url": "https://indianexpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress.in.jpg",
+        "name": "indianexpress.in",
+        "url": "https://indianexpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/greatandhra.in.jpg",
+        "name": "great andhra.in",
+        "url": "https://www.greatandhra.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/firstpost.in.jpg",
+        "name": "firstpost.in",
+        "url": "https://www.firstpost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dnaindia.in.jpg",
+        "name": "dna india.in",
+        "url": "https://www.dnaindia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/डेक्कनक्रोनिकल.jpg",
+        "name": "डेक्कन क्रोनिकल",
+        "url": "https://www.deccanchronicle.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/storypick.in.jpg",
+        "name": "storypick.in",
+        "url": "https://www.storypick.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indiatimes.in.jpg",
+        "name": "india times.in",
+        "url": "https://timesofindia.indiatimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/legit.ng.jpg",
+        "name": "legit.ng",
+        "url": "https://www.legit.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/today.ng.jpg",
+        "name": "today.ng",
+        "url": "https://www.today.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lagostalks.ng.jpg",
+        "name": "lagostalks.ng",
+        "url": "https://lagostalks.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/channelstv.ng.jpg",
+        "name": "channels tv.ng",
+        "url": "https://www.channelstv.com/live/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cnbctv18.in.jpg",
+        "name": "cnbc tv18 .in",
+        "url": "https://www.cnbctv18.com/live-tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yupptv.in.jpg",
+        "name": "yupp tv.in",
+        "url": "https://www.yupptv.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/newsnow.uk.jpg",
+        "name": "news now.uk",
+        "url": "https://www.newsnow.co.uk/h/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wlfi.jpg",
+        "name": "wlfi",
+        "url": "https://www.wlfi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/malaymail.my.jpg",
+        "name": "malay mail .my",
+        "url": "https://www.malaymail.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bostonglobe.jpg",
+        "name": "bostonglobe",
+        "url": "https://www.bostonglobe.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/20minutos,us.jpg",
+        "name": "20minutos,us",
+        "url": "https://www.20minutos.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/independent.uk.jpg",
+        "name": "independent.uk",
+        "url": "https://www.independent.co.uk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dallasnews.jpg",
+        "name": "dallasnews",
+        "url": "https://www.dallasnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/weau.jpg",
+        "name": "weau",
+        "url": "https://www.weau.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wsj.world.jpg",
+        "name": "wsj.world",
+        "url": "https://www.wsj.com/news/world"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/washigtonpost.jpg",
+        "name": "washigton post",
+        "url": "https://www.washingtonpost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/USAtoday.jpg",
+        "name": "USA today",
+        "url": "https://www.usatoday.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/TOI.in.jpg",
+        "name": "TOI.in",
+        "url": "https://timesofindia.indiatimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/theguadian.jpg",
+        "name": "the guadian",
+        "url": "https://theguardian.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/theguadian.us.jpg",
+        "name": "the guadian.us",
+        "url": "https://www.theguardian.com/us"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/theguadian.uk.jpg",
+        "name": "the guadian.uk",
+        "url": "https://www.theguardian.com/uk-news"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/theguadian.au.jpg",
+        "name": "the guadian.au",
+        "url": "https://www.theguardian.com/au"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الجزائريةللاخبار.jpg",
+        "name": "الجزائرية للاخبار",
+        "url": "http://dzayerinfo.com/ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/oneindia.jpg",
+        "name": "oneindia",
+        "url": "https://tamil.oneindia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/كود.ma.jpg",
+        "name": "كود.ma",
+        "url": "https://www.goud.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/NBCnews.jpg",
+        "name": "NBC news",
+        "url": "https://www.nbcnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الجزائري24.jpg",
+        "name": "الجزائري24",
+        "url": "http://aljazair24.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/جزايرس.dz.jpg",
+        "name": "جزايرس.dz",
+        "url": "https://www.djazairess.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/LAtimes.jpg",
+        "name": "LA times",
+        "url": "https://www.latimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الاخبارية.dz.jpg",
+        "name": "الاخبارية.dz",
+        "url": "https://www.elikhbaria.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indiatoday.jpg",
+        "name": "india today",
+        "url": "https://www.indiatoday.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/HUFFINGTONPOST.jpg",
+        "name": "HUFFINGTON POST",
+        "url": "https://www.huffpost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mathrubhumi.in.jpg",
+        "name": "mathrubhumi.in",
+        "url": "https://english.mathrubhumi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/أخبارك.jpg",
+        "name": "أخبارك",
+        "url": "https://akhbarak.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yahoonews.jpg",
+        "name": "yahoo news",
+        "url": "https://news.yahoo.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress,in.jpg",
+        "name": "indian express,in",
+        "url": "https://www.jansatta.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/हिंदीसमाचार.jpg",
+        "name": " हिंदी समाचार",
+        "url": "https://www.jansatta.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cnn.us.jpg",
+        "name": "cnn.us",
+        "url": "https://us.cnn.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cnn.jpg",
+        "name": "cnn",
+        "url": "https://cnn.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/BBC.world.jpg",
+        "name": "BBC.world",
+        "url": "https://www.bbc.com/news/world"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ABCnews.jpg",
+        "name": "ABC news",
+        "url": "https://abcnews.go.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bbc,uk.jpg",
+        "name": "bbc,uk",
+        "url": "https://bbc.co.uk"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wsj.us.jpg",
+        "name": "wsj.us",
+        "url": "https://www.wsj.com/news/us"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foxnews.us.jpg",
+        "name": "fox news.us",
+        "url": "https://www.foxnews.com/us"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/العين.ae.jpg",
+        "name": "العين. ae",
+        "url": "https://al-ain.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/azcentral.jpg",
+        "name": "azcentral",
+        "url": "https://www.azcentral.com/\r\n"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sfgate.jpg",
+        "name": "sfgate",
+        "url": "https://www.sfgate.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nydailynews.jpg",
+        "name": "nydailynews",
+        "url": "https://www.nydailynews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/newsday.jpg",
+        "name": "newsday",
+        "url": "https://www.newsday.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nypost.jpg",
+        "name": "nypost",
+        "url": "https://nypost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/losanglegestimes.jpg",
+        "name": "los angleges times",
+        "url": "https://www.latimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chron.jpg",
+        "name": "chron",
+        "url": "https://www.chron.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chicagotribune.jpg",
+        "name": "chicagotribune",
+        "url": "https://www.chicagotribune.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chicago.suntimes.En.jpg",
+        "name": "chicago.suntimes. En",
+        "url": "https://chicago.suntimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foxnews.world.jpg",
+        "name": "fox news.world",
+        "url": "https://www.foxnews.com/world"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thestar.my.jpg",
+        "name": "the star.my",
+        "url": "https://www.thestar.com.my/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailymail.uk.jpg",
+        "name": "daily mail.uk",
+        "url": "https://dailymail.co.uk"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wqow.jpg",
+        "name": "wqow",
+        "url": "https://wqow.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/msnnews.jpg",
+        "name": "msn news",
+        "url": "https://www.msn.com/news"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mail.comnews.jpg",
+        "name": "mail.com news",
+        "url": "https://www.mail.com/int/news"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/WirtualnaPolska.jpg",
+        "name": "Wirtualna Polska",
+        "url": "https://wp.pl"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/news18.in.jpg",
+        "name": "news18.in",
+        "url": "https://news18.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nytimes.jpg",
+        "name": "nytimes",
+        "url": "https://nytimes.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/webmail.za.jpg",
+        "name": "webmail .za",
+        "url": "https://webmail.co.za"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/austinpbs.jpg",
+        "name": "austinpbs",
+        "url": "https://austinpbs.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ktnvtv.jpg",
+        "name": "ktnv tv",
+        "url": "https://www.ktnv.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mytwintiers.jpg",
+        "name": "my twin tiers",
+        "url": "https://www.mytwintiers.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/japantoday.jp.jpg",
+        "name": "japan today.jp",
+        "url": "https://japantoday.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/globeandmail.ca.jpg",
+        "name": "globe and mail.ca",
+        "url": "https://www.theglobeandmail.com/world/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/أخبارالعراق.jpg",
+        "name": "أخبار العراق",
+        "url": "https://aliraqnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bernama.en.jpg",
+        "name": "bernama.en",
+        "url": "https://www.bernama.com/en/index.php"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/afp.en.jpg",
+        "name": "afp.en",
+        "url": "https://www.afp.com/en"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bloomberg.jpg",
+        "name": "bloomberg",
+        "url": "https://www.bloomberg.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/marketwatch.jpg",
+        "name": "market watch",
+        "url": "https://www.marketwatch.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/business-standard.jpg",
+        "name": "business-standard",
+        "url": "https://www.business-standard.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gulfnews.jpg",
+        "name": "gulf news",
+        "url": "https://gulfnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gulfnews.ae.jpg",
+        "name": "gulf news. ae",
+        "url": "https://gulfnews.com/uae"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/abcnews.jpg",
+        "name": "abc news",
+        "url": "https://abcnews.go.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/forbes.jpg",
+        "name": "forbes",
+        "url": "https://www.forbes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/urdupoint.pk.jpg",
+        "name": "urdupoint.pk",
+        "url": "https://www.urdupoint.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Hürriyetdailynews.en.jpg",
+        "name": "Hürriyet dailynews.en",
+        "url": "https://www.hurriyetdailynews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/RTen.jpg",
+        "name": "RT en",
+        "url": "https://www.rt.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bangkokpost.th.jpg",
+        "name": "bangkokpost.th",
+        "url": "https://www.bangkokpost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اخبارعمون.jpg",
+        "name": "اخبار عمون",
+        "url": "https://www.ammonnews.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/politico.eu.jpg",
+        "name": "politico.eu",
+        "url": "https://www.politico.eu/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/अमरउजाला.jpg",
+        "name": "अमर उजाला",
+        "url": "https://www.amarujala.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/reuters.jpg",
+        "name": "reuters",
+        "url": "https://reuters.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thesun.jpg",
+        "name": "the sun",
+        "url": "https://www.thesun.co.uk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thelocal.se.jpg",
+        "name": "the local.se",
+        "url": "https://www.thelocal.se/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/politico.us.jpg",
+        "name": "politico.us",
+        "url": "https://www.politico.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ctvnews.ca.jpg",
+        "name": "ctv news.ca",
+        "url": "https://www.ctvnews.ca/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/globalnews.ca.jpg",
+        "name": "global news.ca",
+        "url": "https://globalnews.ca/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cbc.ca.jpg",
+        "name": "cbc.ca",
+        "url": "https://www.cbc.ca/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/asahibeer.jp.jpg",
+        "name": "asahi beer.jp",
+        "url": "https://www.asahibeer.com/agecheck/permission.psp.html?land=top"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/abs.ph.jpg",
+        "name": "abs.ph",
+        "url": "https://www.abs-cbn.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/filmibeat,in.jpg",
+        "name": "filmi beat,in",
+        "url": "https://www.filmibeat.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/people.jpg",
+        "name": "people",
+        "url": "https://people.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/japantimes.jp.jpg",
+        "name": "japan times.jp",
+        "url": "https://www.japantimes.co.jp/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/गुजरातसमाचार.jpg",
+        "name": "गुजरात समाचार",
+        "url": "https://www.gujaratsamachar.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/abplive.in.jpg",
+        "name": "abp live.in",
+        "url": "https://news.abplive.com/live-tv"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thehindu,in.jpg",
+        "name": "the hindu,in",
+        "url": "https://www.thehindu.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hindustantimes.in.jpg",
+        "name": "hindustan times.in",
+        "url": "https://www.hindustantimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/businessinsider.in.jpg",
+        "name": "business insider.in",
+        "url": "https://www.businessinsider.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/businessinsider_au.jpg",
+        "name": "business insider_au",
+        "url": "https://www.businessinsider.com.au/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pulse,ng.bi.jpg",
+        "name": "pulse,ng.bi",
+        "url": "https://www.pulse.ng/bi"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/economictimes.jpg",
+        "name": "economic times",
+        "url": "https://economictimes.indiatimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/moneycontrol.jpg",
+        "name": "money control",
+        "url": "https://www.moneycontrol.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/financialtimes.jpg",
+        "name": "financial times",
+        "url": "https://www.ft.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/朝日.jpg",
+        "name": "朝日",
+        "url": "https://www.asahi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/voanews.us.jpg",
+        "name": "voa news.us",
+        "url": "https://www.voanews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ライブドア.jpg",
+        "name": "ライブドア",
+        "url": "https://news.livedoor.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wccbcharlotte.jpg",
+        "name": "wccb charlotte",
+        "url": "https://www.wccbcharlotte.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/.bbc.india.jpg",
+        "name": ".bbc.india",
+        "url": "https://www.bbc.com/news/world/asia/india"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/.bbc.mexico.jpg",
+        "name": ".bbc.mexico",
+        "url": "https://www.bbc.com/news/topics/crr7mlg0vr2t/mexico"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cnn.turk.jpg",
+        "name": "cnn.turk",
+        "url": "https://www.cnnturk.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/AnatoliaAgency.jpg",
+        "name": "Anatolia Agency",
+        "url": "https://www.aa.com.tr/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quatrorodas.br.jpg",
+        "name": "quatrorodas.br",
+        "url": "https://quatrorodas.abril.com.br/"
+      }
+    ]
+  },
+  {
+    "key": "search",
+    "name": "Search engines",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/google.jpg",
+        "name": "Google",
+        "url": "https://www.google.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/bing.jpg",
+        "name": "bing",
+        "url": "https://www.bing.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/yandex.jpg",
+        "name": "Yandex",
+        "url": "https://www.yandex.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/msn.jpg",
+        "name": "msn",
+        "url": "https://www.msn.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/mailru.jpg",
+        "name": "Mail.Ru",
+        "url": "https://www.mail.ru"
+      },
+      {
+        "icon": "file:///android_asset/icons/mailcom.jpg",
+        "name": "Mail.com",
+        "url": "https://www.mail.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/naver.jpg",
+        "name": "Naver",
+        "url": "https://www.naver.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/yahoomail.jpg",
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/aolmail.jpg",
+        "name": "aol",
+        "url": "https://www.aol.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wolframalpha.jpg",
+        "name": "wolfram alpha",
+        "url": "https://www.wolframalpha.com/"
+      }
+    ]
+  },
+  {
+    "key": "edu",
+    "name": "Education",
+    "sites": [
+      {
+        "icon": "https://instalyzer.tk/aio-icon/دزربيالتعليمي.dz.jpg",
+        "name": "دزربي التعليمي.dz",
+        "url": "http://dzirieduc.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سوس24.ma.jpg",
+        "name": "سوس24.ma",
+        "url": "https://www.souss24.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اكادير.ma.jpg",
+        "name": "اكادير.ma",
+        "url": "https://agadir24.info/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/awamiweb.pk.jpg",
+        "name": "awami web.pk",
+        "url": "https://awamiweb.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dantri.vn.jpg",
+        "name": "dantri.vn",
+        "url": "https://dantri.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/descomplica.br.jpg",
+        "name": "des complica.br",
+        "url": "https://descomplica.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/QueroBolsa.br.jpg",
+        "name": "Quero Bolsa.br",
+        "url": "https://querobolsa.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Colaborar-AVA.br.jpg",
+        "name": "Colaborar - AVA.br",
+        "url": "https://colaboraread.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ruangguru.id.jpg",
+        "name": "ruangguru.id",
+        "url": "https://ruangguru.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rae.es.jpg",
+        "name": "rae.es",
+        "url": "https://rae.es"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/unam.mx.jpg",
+        "name": "unam.mx",
+        "url": "https://unam.mx"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/primal.vn.jpg",
+        "name": "primal.vn",
+        "url": "https://www.primal.com.vn/vi/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thaipod101.th.jpg",
+        "name": "thai pod101.th",
+        "url": "https://www.thaipod101.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/prima.th.jpg",
+        "name": "prima.th",
+        "url": "https://www.primal.co.th/th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/primal.my.jpg",
+        "name": "primal.my",
+        "url": "https://www.primal.com.my/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/goethe.de.jpg",
+        "name": "goethe.de",
+        "url": "https://www.goethe.de/de/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/blackboard.jpg",
+        "name": "blackboard",
+        "url": "https://blackboard.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vedantu.in.jpg",
+        "name": "vedantu.in",
+        "url": "https://vedantu.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/shiksha.in.jpg",
+        "name": "shiksha.in",
+        "url": "https://shiksha.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/schooleducationgateway,in.jpg",
+        "name": "school education gat eway,in",
+        "url": "https://www.schooleducationgateway.eu/en/pub/index.htm"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jagranjosh.in.jpg",
+        "name": "jagran josh.in",
+        "url": "https://www.jagranjosh.com/hindi?ref=nav_hindi"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jagran.in.jpg",
+        "name": "jagran.in",
+        "url": "https://www.jagran.com/business-hindi.html"
+      },
+      {
+        "icon": "R.classmates",
+        "name": "Classmates",
+        "url": "https://www.classmates.com"
+      },
+      {
+        "icon": "R.medium",
+        "name": "Medium",
+        "url": "https://www.medium.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wolframalpha.jpg",
+        "name": "wolfram alpha",
+        "url": "https://www.wolframalpha.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/academia.jpg",
+        "name": "academia",
+        "url": "https://academia.edu"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/monografias.jpg",
+        "name": "monografias",
+        "url": "https://monografias.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/frontlineeducation.jpg",
+        "name": "front line education",
+        "url": "https://frontlineeducation.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/khanacademy.jpg",
+        "name": "khana cademy",
+        "url": "https://khanacademy.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thoughtco.jpg",
+        "name": "thoughtco",
+        "url": "https://thoughtco.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/study.jpg",
+        "name": "study",
+        "url": "https://study.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quizizz.jpg",
+        "name": "quizizz",
+        "url": "https://quizizz.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/coursehero.jpg",
+        "name": "coursehero",
+        "url": "https://coursehero.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/duolingo.jpg",
+        "name": "duolingo",
+        "url": "https://duolingo.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/udemy.jpg",
+        "name": "udemy",
+        "url": "https://udemy.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mylife.jpg",
+        "name": "mylife",
+        "url": "https://mylife.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quizlet.jpg",
+        "name": "quizlet",
+        "url": "https://quizlet.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/powerschool.jpg",
+        "name": "power school",
+        "url": "https://powerschool.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/remind.jpg",
+        "name": "remind",
+        "url": "https://remind.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chegg.jpg",
+        "name": "chegg",
+        "url": "https://chegg.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/byjus.jpg",
+        "name": "byjus",
+        "url": "https://byjus.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gradeup.jpg",
+        "name": "gradeup",
+        "url": "https://gradeup.co"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kahoot.jpg",
+        "name": "kahoot",
+        "url": "https://kahoot.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hinative.jpg",
+        "name": "hinative",
+        "url": "https://hinative.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/brainly.jpg",
+        "name": "brainly",
+        "url": "https://brainly.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/instructure.jpg",
+        "name": "instructure",
+        "url": "https://instructure.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/glosbe.jpg",
+        "name": "glosbe",
+        "url": "https://glosbe.com/"
+      }
+    ]
+  },
+  {
+    "key": "sport",
+    "name": "Sports",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/chiangraitimes.jpg",
+        "name": "chiangrai times",
+        "url": "https://www.chiangraitimes.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/my-thai.jpg",
+        "name": "my-thai",
+        "url": "https://my-thai.org/"
+      },
+      {
+        "icon": "file:///android_asset/icons/goodyfeed.jpg",
+        "name": "goody feed",
+        "url": "https://goodyfeed.com/"
+      },
+      {
+        "icon": "file:///android_asset/icons/msnsport.jpg",
+        "name": "msn sport",
+        "url": "https://www.msn.com/sports"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ayibamagazine.jpg",
+        "name": "ayiba magazine",
+        "url": "http://ayibamagazine.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jagran.in.jpg",
+        "name": "jagran.in",
+        "url": "https://www.jagran.com/cricket-hindi.html"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cricketcountry.in.jpg",
+        "name": "cricketcountry.in",
+        "url": "https://www.cricketcountry.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/icc_cricket.in.jpg",
+        "name": "icc_cricket.in",
+        "url": "https://www.icc-cricket.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bcci.tv.in.jpg",
+        "name": "bcci.tv.in",
+        "url": "https://www.bcci.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sportzwiki.in.jpg",
+        "name": "sportzwiki.in",
+        "url": "https://sportzwiki.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sporteology.in.jpg",
+        "name": "sporteology.in",
+        "url": "https://sporteology.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الاهلينيوز.eg.jpg",
+        "name": "الاهلي نيوز.eg",
+        "url": "https://www.ahlynews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الاهلي.eg.jpg",
+        "name": "الاهلي.eg",
+        "url": "https://www.el-ahly.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الزمالك.eg.jpg",
+        "name": "الزمالك.eg",
+        "url": "https://zamalekfans.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ستادالاهلي.eg.jpg",
+        "name": "ستاد الاهلي.eg",
+        "url": "http://stadelahly.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الزمالك.tv.jpg",
+        "name": "الزمالك.tv",
+        "url": "http://www.zamalek.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سبورتماتش.jpg",
+        "name": "سبورت ماتش",
+        "url": "http://www.sportakhbar.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/كورة11.jpg",
+        "name": "كورة11",
+        "url": "https://kora11.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سعودي.sa.jpg",
+        "name": "سعودي.sa",
+        "url": "https://www.so3ody.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الاهلي/sa.jpg",
+        "name": "الاهلي/sa",
+        "url": "https://alhilal.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الرياضي.sa.jpg",
+        "name": "الرياضي.sa",
+        "url": "http://arreyadi.com.sa/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/faf.dz.jpg",
+        "name": "faf.dz",
+        "url": "http://www.faf.dz/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/usm.dz.jpg",
+        "name": "usm.dz",
+        "url": "http://www.usm-alger.com/site/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lecompetiteur.dz.jpg",
+        "name": "lecompetiteur.dz",
+        "url": "http://lecompetiteur.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/planetesport.dz.jpg",
+        "name": "planetesport.dz",
+        "url": "https://www.planetesport.dz/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الشياك.dz.jpg",
+        "name": "الشياك.dz",
+        "url": "https://sport.ennaharonline.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الهداف.dz.jpg",
+        "name": "الهداف.dz",
+        "url": "https://www.elheddaf.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/DzairFootball.dz.jpg",
+        "name": "Dzair Football.dz",
+        "url": "https://dzairfootball.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lebuteur.dz.jpg",
+        "name": "lebuteur.dz",
+        "url": "https://www.lebuteur.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المنتخب.ma.jpg",
+        "name": "المنتخب.ma",
+        "url": "https://www.almountakhab.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/هبةسبورت.ma.jpg",
+        "name": "هبة سبورت.ma",
+        "url": "https://www.hibasport.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/frmf.ma.jpg",
+        "name": "frmf.ma",
+        "url": "https://frmf.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الرياضية,3.ma.jpg",
+        "name": "الرياضية,3.ma",
+        "url": "https://arryadia.snrt.ma/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/كيفاش.ma.jpg",
+        "name": "كيفاش.ma",
+        "url": "https://kifache.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kurdiu.ku.en.jpg",
+        "name": "kurdiu.ku.en",
+        "url": "https://www.kurdiu.org/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الفراتنيوز.iq.jpg",
+        "name": "الفرات نيوز.iq",
+        "url": "https://alforatnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/المدي.iq.jpg",
+        "name": "المدي.iq",
+        "url": "https://almadapress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الشرقيةiq.jpg",
+        "name": "الشرقيةiq",
+        "url": "https://alsharqiya.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/یاریگانێت.jpg",
+        "name": "یاریگانێت ",
+        "url": "http://yariga.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/viva.id.jpg",
+        "name": "viva.id",
+        "url": "https://www.viva.co.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sundul.id.jpg",
+        "name": "sundul.id",
+        "url": "https://www.sundul.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/supersoccer.id.jpg",
+        "name": "super soccer.id",
+        "url": "https://supersoccer.tv/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Okezone.id.jpg",
+        "name": "Oke zone.id ",
+        "url": "https://bola.okezone.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kickoff.ng.jpg",
+        "name": "kickoff.ng",
+        "url": "https://www.kickoff.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fcnaija.ng.jpg",
+        "name": "fcnaija.ng",
+        "url": "http://www.fcnaija.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jang.pk.jpg",
+        "name": "jang.pk",
+        "url": "https://jang.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dailytimes.pk.jpg",
+        "name": "daily times.pk",
+        "url": "https://dailytimes.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/urduwire.pk.jpg",
+        "name": "urdu wire.pk",
+        "url": "https://urduwire.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bongda.vn.jpg",
+        "name": "bongda.vn",
+        "url": "https://bongdaplus.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thao&Vănhóa,vn.jpg",
+        "name": "thao & Văn hóa,vn",
+        "url": "https://thethaovanhoa.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/BóngĐáTV.vn.jpg",
+        "name": "Bóng Đá TV.vn",
+        "url": "https://bongdatv.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/24h.vn.jpg",
+        "name": "24h.vn",
+        "url": "https://www.24h.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Kênh14.vn.jpg",
+        "name": "Kênh 14.vn",
+        "url": "https://kenh14.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/docbao.vn.jpg",
+        "name": "doc bao.vn",
+        "url": "https://docbao.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/siamsport.th.jpg",
+        "name": "siam sport.th",
+        "url": "https://www.siamsport.co.th/home"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kapook.th.jpg",
+        "name": "kapook.th",
+        "url": "https://football.kapook.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sanook.th.jpg",
+        "name": "sanook.th",
+        "url": "https://www.sanook.com/sport/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/هايكورة2.sa.jpg",
+        "name": "هاي كورة2 .sa",
+        "url": "http://sa.hihi2.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/247sports.jpg",
+        "name": "247sports",
+        "url": "https://247sports.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/liputan6.id.jpg",
+        "name": "liputan6.id",
+        "url": "https://liputan6.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/skor.id.jpg",
+        "name": "skor.id",
+        "url": "https://www.skor.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bola.id.jpg",
+        "name": "bola.id",
+        "url": "https://www.bola.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/SportsIllustrated.jpg",
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress.in.jpg",
+        "name": "indianexpress.in",
+        "url": "https://indianexpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thehindu,in.jpg",
+        "name": "thehindu,in",
+        "url": "https://www.thehindu.com/sport/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indianexpress.in.jpg",
+        "name": "indianexpress.in",
+        "url": "https://indianexpress.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thehindu,in.jpg",
+        "name": "thehindu,in",
+        "url": "https://www.thehindu.com/sport/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/firstpost.in.jpg",
+        "name": "firstpost.in",
+        "url": "https://www.firstpost.com/category/sports"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/skysports.jpg",
+        "name": "skysports",
+        "url": "https://skysports.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/legit.ng.jpg",
+        "name": "legit.ng",
+        "url": "https://www.legit.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/today.ng.jpg",
+        "name": "today.ng",
+        "url": "https://www.today.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/channelstv.ng.jpg",
+        "name": "channels tv.ng",
+        "url": "https://www.channelstv.com/live/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zakzak.jp.jpg",
+        "name": "zak zak.jp",
+        "url": "https://www.zakzak.co.jp/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/heavy.jpg",
+        "name": "heavy",
+        "url": "https://heavy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/newsnow.uk.jpg",
+        "name": "news now.uk",
+        "url": "https://www.newsnow.co.uk/h/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/heavymag.au.jpg",
+        "name": "heavy mag.au",
+        "url": "https://heavymag.com.au/?v=c2d75724334c"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/malaymail.my.jpg",
+        "name": "malay mail .my",
+        "url": "https://www.malaymail.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bostonglobe.jpg",
+        "name": "bostonglobe",
+        "url": "https://www.bostonglobe.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sport24.jpg",
+        "name": "sport24",
+        "url": "https://www.sport24.gr/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dallasnews.jpg",
+        "name": "dallasnews",
+        "url": "https://www.dallasnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/brila.net.ng.jpg",
+        "name": "brila.net.ng",
+        "url": "https://www.brila.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Complete_Sports.ng.jpg",
+        "name": "Complete_Sports.ng",
+        "url": "https://www.completesports.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/owngoal.ng.jpg",
+        "name": "own goal.ng   ",
+        "url": "https://www.owngoalnigeria.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/soccernet.ng.jpg",
+        "name": "soccer net.ng",
+        "url": "https://soccernet.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nigeriasoccernet.ng.jpg",
+        "name": "nigeriasoccernet.ng",
+        "url": "https://nigeriasoccernet.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/footballlive.ng.jpg",
+        "name": "football live.ng",
+        "url": "https://www.footballlive.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/allnigeriasoccer.ng.jpg",
+        "name": "all nigeria soccer.ng",
+        "url": "https://www.allnigeriasoccer.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/goal.jpg",
+        "name": "goal",
+        "url": "https://goal.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/espn.jpg",
+        "name": "espn",
+        "url": "https://espn.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/espncricinfo.jpg",
+        "name": "espn cricinfo",
+        "url": "https://espncricinfo.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/PremierLeague.jpg",
+        "name": "Premier League",
+        "url": "https://premierleague.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nbcsports.jpg",
+        "name": "nbc sports",
+        "url": "https://nbcsports.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/eursport.jpg",
+        "name": "eursport",
+        "url": "https://www.eurosport.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/NDTVcric.in.jpg",
+        "name": "NDTV cric.in",
+        "url": "https://sports.ndtv.com/cricket"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sportingnews.jpg",
+        "name": "sporting news",
+        "url": "https://www.sportingnews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cricinfo.jpg",
+        "name": "cric info",
+        "url": "https://www.espncricinfo.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tennis.jpg",
+        "name": "tennis",
+        "url": "https://www.tennis.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yahoocric.jpg",
+        "name": " yahoocric",
+        "url": "https://cricket.yahoo.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/CBSSports.jpg",
+        "name": "CBS Sports",
+        "url": "https://cbssports.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cricbuzz.jpg",
+        "name": "cricb uzz",
+        "url": "https://www.cricbuzz.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sportsa.in.jpg",
+        "name": "sportsa.in",
+        "url": "https://sportsa.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/أخبارك.jpg",
+        "name": "أخبارك",
+        "url": "https://akhbarak.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bolavip.jpg",
+        "name": "bolavip",
+        "url": "https://bolavip.com/global"
+      },
+      {
+        "icon": "liquipedia.jpg",
+        "name": "liquipedia",
+        "url": "https://liquipedia.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nfl.jpg",
+        "name": "nfl",
+        "url": "https://nfl.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/azcentral.jpg",
+        "name": "azcentral",
+        "url": "https://www.azcentral.com/\r\n"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sfgate.jpg",
+        "name": "sfgate",
+        "url": "https://www.sfgate.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nydailynews.jpg",
+        "name": "nydailynews",
+        "url": "https://www.nydailynews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/newsday.jpg",
+        "name": "newsday",
+        "url": "https://www.newsday.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nypost.jpg",
+        "name": "nypost",
+        "url": "https://nypost.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/losanglegestimes.jpg",
+        "name": "los angleges times",
+        "url": "https://www.latimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chron.jpg",
+        "name": "chron",
+        "url": "https://www.chron.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chicagotribune.jpg",
+        "name": "chicagotribune",
+        "url": "https://www.chicagotribune.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/chicago.suntimes.En.jpg",
+        "name": "chicago.suntimes. En",
+        "url": "https://chicago.suntimes.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thestar.my.jpg",
+        "name": "the star.my",
+        "url": "https://www.thestar.com.my/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wqow.jpg",
+        "name": "wqow",
+        "url": "https://wqow.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/CricketNext.jpg",
+        "name": "Cricket Next",
+        "url": "https://www.news18.com/cricketnext/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bolavip.us.jpg",
+        "name": "bolavip.us",
+        "url": "https://bolavip.com/us"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/marca.jpg",
+        "name": "marca",
+        "url": "https://www.marca.com/en/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bleacherreport.jpg",
+        "name": "bleacher report",
+        "url": "https://bleacherreport.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/channelnewsasia.jpg",
+        "name": "channel news asia",
+        "url": "https://www.channelnewsasia.com/news/sporhttps://www.channelnewsasia.com/news/sportt"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sport.orf.at.jpg",
+        "name": "sport.orf.at",
+        "url": "https://sport.orf.at/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/filgoal.ar.jpg",
+        "name": "filgoal.ar",
+        "url": "https://www.filgoal.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/DICK'SSportingGoods.jpg",
+        "name": "DICK'S Sporting Goods",
+        "url": "https://www.dickssportinggoods.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fanatics.jpg",
+        "name": "fanatics",
+        "url": "https://www.fanatics.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/90min.jpg",
+        "name": "90min",
+        "url": "https://www.90min.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bbc-sport.jpg",
+        "name": "bbc - sport",
+        "url": "https://www.bbc.com/sport/football"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/beinsports.jpg",
+        "name": "beinsports",
+        "url": "https://www.beinsports.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mirror.uk.jpg",
+        "name": "mirror.uk",
+        "url": "https://www.mirror.co.uk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/スポーツ報知.jpg",
+        "name": "スポーツ報知",
+        "url": "https://hochi.news"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/webmail.za.jpg",
+        "name": "webmail .za",
+        "url": "https://webmail.co.za"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wccbcharlotte.jpg",
+        "name": "wccb charlotte",
+        "url": "https://www.wccbcharlotte.com/"
+      }
+    ]
+  },
+  {
+    "key": "service",
+    "name": "Service",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/ghost.jpg",
+        "name": "Ghost",
+        "url": "https://www.ghost.org"
+      },
+      {
+        "icon": "file:///android_asset/icons/spotify.jpg",
+        "name": "spotify",
+        "url": "https://www.spotify.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/wordpress.jpg",
+        "name": "Wordpress",
+        "url": "https://www.wordpress.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/blogger.jpg",
+        "name": "Blogger",
+        "url": "https://www.blogger.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/soundcloud.jpg",
+        "name": "SoundCloud",
+        "url": "https://www.soundcloud.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/slack.jpg",
+        "name": "Slack",
+        "url": "https://www.slack.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/googletranslation.jpg",
+        "name": "GOOGLE translation",
+        "url": "https://translate.google.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/trucaller.jpg",
+        "name": "trucaller",
+        "url": "https://www.truecaller.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/bandcamp.jpg",
+        "name": "Bandcamp",
+        "url": "https://www.bandcamp.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/stumbleupon.jpg",
+        "name": "StumbleUpon",
+        "url": "https://www.stumbleupon.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wix.jpg",
+        "name": "Wix",
+        "url": "https://www.wix.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/office.jpg",
+        "name": "office",
+        "url": "https://www.office.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foursquare.jpg",
+        "name": "Foursquare",
+        "url": "https://www.foursquare.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mixcloud.jpg",
+        "name": "Mixcloud",
+        "url": "https://www.mixcloud.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/befunky.jpg",
+        "name": "befunky",
+        "url": "https://www.befunky.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/accuweather.jpg",
+        "name": "accuweather",
+        "url": "https://www.accuweather.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/svbtle.jpg",
+        "name": "SVBTLE",
+        "url": "https://www.svbtle.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yelp.jpg",
+        "name": "Yelp",
+        "url": "https://www.yelp.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/penzu.jpg",
+        "name": "Penzu",
+        "url": "https://www.penzu.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/xing.jpg",
+        "name": "XING",
+        "url": "https://www.xing.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lastfm.jpg",
+        "name": "Last.fm",
+        "url": "https://www.last.fm"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/box.jpg",
+        "name": "Box",
+        "url": "https://www.box.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zoho.jpg",
+        "name": "Zoho",
+        "url": "https://www.zoho.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wikipedia.jpg",
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/quora.jpg",
+        "name": "Quora",
+        "url": "https://www.quora.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wattpad.jpg",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/adsense.jpg",
+        "name": "Adsense",
+        "url": "https://www.adsense.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/admob.jpg",
+        "name": "Admob",
+        "url": "https://www.admob.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/alamy.jpg",
+        "name": "alamy",
+        "url": "https://www.alamy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fotor.jpg",
+        "name": "fotor",
+        "url": "https://www.fotor.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Digg.jpg",
+        "name": "Digg",
+        "url": "https://digg.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الرقمالوطني,sa.jpg",
+        "name": "الرقم الوطني,sa",
+        "url": "https://address.gov.sa/ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/زين.للاتصالات.sa.jpg",
+        "name": "زين.للاتصالات.sa",
+        "url": "https://sa.zain.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/stc.للاتصالات.sa.jpg",
+        "name": "stc.للاتصالات.sa",
+        "url": "https://www.stc.com.sa/wps/wcm/connect/arabic/individual/individual"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/جويللاتصالات.sa.jpg",
+        "name": "جوي للاتصالات.sa",
+        "url": "https://www.jawwy.sa/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/موبايليللاتصالات.sa.jpg",
+        "name": "موبايلي للاتصالات.sa",
+        "url": "https://www.mobily.com.sa/wps/portal/web/personal"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/citc.للاتصالات.sa.jpg",
+        "name": "citc.للاتصالات.sa",
+        "url": "https://www.citc.gov.sa/en/Pages/default.aspx"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/itc.للاتصالات.sa.jpg",
+        "name": "itc.للاتصالات.sa",
+        "url": "https://www.itc.sa/ar/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/خدماتقضائية.sa.jpg",
+        "name": "خدمات قضائية.sa",
+        "url": "https://najiz.moj.gov.sa/Account/Login?ReturnUrl=%2FHome%2FDashboard"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ايجار.sa.jpg",
+        "name": "ايجار.sa",
+        "url": "https://www.ejar.sa/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/زيد.sa.jpg",
+        "name": "زيد.sa",
+        "url": "https://zid.sa/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/معروف.sa.jpg",
+        "name": "معروف.sa",
+        "url": "https://maroof.sa/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/سلة.sa.jpg",
+        "name": "سلة.sa",
+        "url": "https://salla.sa/site/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/واصلعالمي.sa.jpg",
+        "name": "واصل عالمي.sa",
+        "url": "https://www.waselalami.com.sa/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ارامكس.sa.jpg",
+        "name": "ارامكس.sa",
+        "url": "https://www.aramex.com/ly/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cambly.jpg",
+        "name": "cambly",
+        "url": "https://www.cambly.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/h24.ma.jpg",
+        "name": "h24.ma",
+        "url": "https://www.h24info.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/PIA.vn.jpg",
+        "name": "PIA.vn",
+        "url": "https://www.piac.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nanotravel.vn.jpg",
+        "name": "nanotravel.vn",
+        "url": "https://nanotravel.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/craigslis.tn.jpg",
+        "name": "craigslis. tn",
+        "url": "https://craigslist.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foodpanda.ro.jpg",
+        "name": "food panda.ro",
+        "url": "https://www.foodpanda.ro/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/flickriver.jpg",
+        "name": "flickriver",
+        "url": "https://flickriver.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/redbusin.jpg",
+        "name": "red bus in",
+        "url": "https://www.redbus.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/paypal.jpg",
+        "name": "pay pal",
+        "url": "https://www.paypal.com/ly/home"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/MakeMyTrip.in.jpg",
+        "name": "MakeMyTrip.in",
+        "url": "https://www.makemytrip.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Howcast.jpg",
+        "name": "Howcast",
+        "url": "https://www.howcast.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foodmemories.in.jpg",
+        "name": "food memories.in",
+        "url": "https://www.foodmemories.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foodcloud.in.jpg",
+        "name": "food cloud.in",
+        "url": "https://www.foodcloud.in/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fabhotels.in.jpg",
+        "name": "fab hotels.in",
+        "url": "https://www.fabhotels.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/faasos.in.jpg",
+        "name": "faasos.in",
+        "url": "https://order.faasos.io/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/doordash.us.jpg",
+        "name": "door dash.us",
+        "url": "https://www.doordash.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Domainos.jpg",
+        "name": "Domainos",
+        "url": "https://www.dominos.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/discordapp.jpg",
+        "name": "discordapp",
+        "url": "https://discordapp.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/primal.vn.jpg",
+        "name": "primal.vn",
+        "url": "https://www.primal.com.vn/vi/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/prima.th.jpg",
+        "name": "prima.th",
+        "url": "https://www.primal.co.th/th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/primal.my.jpg",
+        "name": "primal.my",
+        "url": "https://www.primal.com.my/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/DROPBOX.jpg",
+        "name": "DROPBOX",
+        "url": "https://www.dropbox.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/snapfish.jpg",
+        "name": "snapfish",
+        "url": "https://www.snapfish.com/home"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/forex.pk.jpg",
+        "name": "forex.pk",
+        "url": "https://www.forex.pk/open_market_rates.asp"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/swiggy.in.jpg",
+        "name": "swiggy.in",
+        "url": "https://www.swiggy.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foodpanda.jpg",
+        "name": "food panda",
+        "url": "https://www.foodpanda.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pixlr.jpg",
+        "name": "pixlr",
+        "url": "https://www.fotor.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zomato.in.jpg",
+        "name": "zomato.in",
+        "url": "https://www.zomato.com/ncr"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/StockPhoto.jpg",
+        "name": "Stock Photo",
+        "url": "https://www.canstockphoto.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/artnet.jpg",
+        "name": "artnet",
+        "url": "http://www.artnet.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/depositphotos.jpg",
+        "name": "deposit photos",
+        "url": "https://depositphotos.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dpreview.jpg",
+        "name": "dpreview",
+        "url": "https://www.dpreview.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/justdial.jpg",
+        "name": "justdial",
+        "url": "https://www.justdial.com/"
+      },
+      {
+        "icon": "R.medium",
+        "name": "Medium",
+        "url": "https://www.medium.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wolframalpha.jpg",
+        "name": "wolfram alpha",
+        "url": "https://www.wolframalpha.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/foodpanda.tw.jpg",
+        "name": "food panda.tw",
+        "url": "https://www.foodpanda.com.tw/en/"
+      }
+    ]
+  },
+  {
+    "key": "travel",
+    "name": "Tourism and Travel",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/couchsurfing.jpg",
+        "name": "Couchsurfing",
+        "url": "https://www.couchsurfing.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/wayn.jpg",
+        "name": "WAYN",
+        "url": "https://www.wayn.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/booking.jpg",
+        "name": "booking",
+        "url": "https://booking.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/yatra.in.jpg",
+        "name": "yatra.in",
+        "url": "https://www.yatra.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Airbnb.ru.jpg",
+        "name": "Airbnb.ru",
+        "url": "https://www.airbnb.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/KudaGo.ru.jpg",
+        "name": "KudaGo.ru",
+        "url": "https://kudago.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/s7.ru.jpg",
+        "name": "s7.ru",
+        "url": "https://www.s7.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tripadvisor.eg.jpg",
+        "name": "tripadvisor.eg",
+        "url": "https://www.tripadvisor.com.eg/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/travelyalla.eg.jpg",
+        "name": "travelyalla.eg",
+        "url": "https://www.travelyalla.com/ar-eg"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/حجزتذاكر.سحم.jpg",
+        "name": "حجز تذاكر. س ح م",
+        "url": "https://enr.gov.eg/ticketing/public/login.jsf"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/اجازاتمصر.jpg",
+        "name": "اجازات مصر",
+        "url": "https://www.agazatmasr.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thomascook.jpg",
+        "name": "thomascook",
+        "url": "https://www.thomascook.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/planefinder.jpg",
+        "name": "planefinder",
+        "url": "https://planefinder.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/الملكيةالمغرية.jpg",
+        "name": "الملكية المغرية",
+        "url": "https://www.royalairmaroc.com/int-en"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/visitmorocco.jpg",
+        "name": "visit morocco",
+        "url": "https://www.visitmorocco.png.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/pegipegi.id.jpg",
+        "name": "pegi pegi.id",
+        "url": "https://www.pegipegi.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/kai.id.jpg",
+        "name": "kai.id",
+        "url": "https://www.kai.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nusatrip.id.jpg",
+        "name": "nusatrip.id",
+        "url": "https://www.nusatrip.com/en"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sriwijayaair.id.jpg",
+        "name": "sriwijayaair.id",
+        "url": "https://www.sriwijayaair.co.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tripadvisor.id.jpg",
+        "name": "trip advisor.id",
+        "url": "https://www.tripadvisor.co.id/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/agoda.jpg",
+        "name": "agoda",
+        "url": "https://www.agoda.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wakanow.ng.jpg",
+        "name": "wakanow.ng",
+        "url": "https://www.wakanow.com/en-ng"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/travelstart.ng.jpg",
+        "name": "travel start.ng",
+        "url": "https://www.travelstart.com.ng/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/flydanaair.ng.jpg",
+        "name": "flydanaair.ng",
+        "url": "https://www.flydanaair.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/PIA.vn.jpg",
+        "name": "PIA.vn",
+        "url": "https://www.piac.com.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/murree.vn.jpg",
+        "name": "murree.vn",
+        "url": "https://www.karachisnob.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nanotravel.vn.jpg",
+        "name": "nanotravel.vn",
+        "url": "https://nanotravel.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vietjetair.vn.jpg",
+        "name": "vietjetair.vn",
+        "url": "https://www.vietjetair.com/Sites/Web/en-US/Home"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/travel.vn.jpg",
+        "name": "travel.vn",
+        "url": "https://travel.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mytour.vn.jpg",
+        "name": "mytour.vn",
+        "url": "https://mytour.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/fiditour.vn.jpg",
+        "name": "fiditour.vn",
+        "url": "https://www.fiditour.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hotels.th.jpg",
+        "name": "hotels.th",
+        "url": "https://www.hotels.com/go/thailand/bangkok"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/craigslis.tn.jpg",
+        "name": "craigslis. tn",
+        "url": "https://craigslist.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/voeazul.br.jpg",
+        "name": "voeazul.br",
+        "url": "https://www.voeazul.com.br/en/home"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lyft.jpg",
+        "name": "lyft",
+        "url": "https://www.lyft.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hotels.jpg",
+        "name": "hotels",
+        "url": "https://hotels.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/HomeAway.jpg",
+        "name": "Home Away",
+        "url": "https://www.homeaway.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/cleartrip.jpg",
+        "name": "clear trip",
+        "url": "https://www.cleartrip.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/airbnb.jpg",
+        "name": "airbnb",
+        "url": "https://www.airbnb.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/azcentral.jpg",
+        "name": "azcentral",
+        "url": "https://www.azcentral.com/\r\n"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/spicejet.in.jpg",
+        "name": "spicejet.in",
+        "url": "https://www.spicejet.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/sfgate.jpg",
+        "name": "sfgate",
+        "url": "https://www.sfgate.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nydailynews.jpg",
+        "name": "nydailynews",
+        "url": "https://www.nydailynews.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/aoltravel.jpg",
+        "name": "aol travel",
+        "url": "https://www.aol.com/travel/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/msntravel.jpg",
+        "name": "msn travel",
+        "url": "https://www.msn.com/travel"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/tripadvisor.jpg",
+        "name": "trip advisor",
+        "url": "https://tripadvisor.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/holidayiq.in.jpg",
+        "name": "holidayiq.in",
+        "url": "https://www.holidayiq.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/touropia.jpg",
+        "name": "touropia",
+        "url": "https://www.touropia.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/planetware.jpg",
+        "name": "planetware",
+        "url": "https://www.planetware.com/"
+      }
+    ]
+  },
+  {
+    "key": "email",
+    "name": "Email services",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/gmail.jpg",
+        "name": "Gmail",
+        "url": "https://www.google.com/gmail"
+      },
+      {
+        "icon": "file:///android_asset/icons/outlook.jpg",
+        "name": "Outlook",
+        "url": "https://www.outlook.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/fastmail.jpg",
+        "name": "FastMail",
+        "url": "https://www.fastmail.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/yahoomail.jpg",
+        "name": "Yahoo Mail",
+        "url": "https://login.yahoo.com"
+      },
+      {
+        "icon": "file:///android_asset/icons/aolmail.jpg",
+        "name": "AOL Mail",
+        "url": "https://login.aol.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hushmail.jpg",
+        "name": "Hushmail",
+        "url": "https://www.hushmail.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/gmxmail.jpg",
+        "name": "GMX Mail",
+        "url": "https://www.gmx.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/webmail.za.jpg",
+        "name": "webmail .za",
+        "url": "https://webmail.co.za"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/netcourrier.jpg",
+        "name": "netcourrier",
+        "url": "https://www.netcourrier.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/Yandex.Mail.jpg",
+        "name": "Yandex.Mail",
+        "url": "https://mail.yandex.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/evite.jpg",
+        "name": "evite",
+        "url": "https://evite.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mimecast.jpg",
+        "name": "mimecast",
+        "url": "https://mimecast.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/freephonenum.jpg",
+        "name": "free phonenum",
+        "url": "https://freephonenum.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/birthdayalarm.jpg",
+        "name": "birthdayalarm",
+        "url": "https://birthdayalarm.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/outitgoes.jpg",
+        "name": "outitgoes",
+        "url": "https://outitgoes.com/"
+      }
+    ]
+  },
+  {
+    "key": "job",
+    "name": "Business",
+    "sites": [
+      {
+        "icon": "file:///android_asset/icons/linkedin.jpg",
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/xing.jpg",
+        "name": "XING",
+        "url": "https://www.xing.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rosrabota,ru.jpg",
+        "name": "rosrabota,ru",
+        "url": "https://rosrabota.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/zarplata.ru.jpg",
+        "name": "zarplata.ru",
+        "url": "https://www.zarplata.ru/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/تنقيب.eg.jpg",
+        "name": "تنقيب.eg",
+        "url": "https://egypt.tanqeeb.com/ar"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/wuzzuf.eg.jpg",
+        "name": "wuzzuf.eg",
+        "url": "https://wuzzuf.net/jobs/egypt?v=2"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/وظيفةدوتكوم.sa.jpg",
+        "name": "وظيفة دوت كوم.sa",
+        "url": "https://www.wadhefa.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ايوطيفة.sa.jpg",
+        "name": "اي وطيفة.sa",
+        "url": "https://www.ewdifh.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/emploitic.dz.jpg",
+        "name": "emploitic.dz",
+        "url": "https://www.emploitic.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dzemploi.jpg",
+        "name": "dzemploi",
+        "url": "https://www.dzemploi.org/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/emploipartner.jpg",
+        "name": "emploi partner",
+        "url": "https://www.emploipartner.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/optioncarriere.dz.jpg",
+        "name": "optioncarriere.dz",
+        "url": "https://www.optioncarriere.dz/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jobrapido.dz.jpg",
+        "name": "jobrapido.dz",
+        "url": "https://dz.jobrapido.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hebdoimmobilier.dz.jpg",
+        "name": "hebdo immobilier.dz",
+        "url": "hebdoimmobilier"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/lkeria.dz.jpg",
+        "name": "lkeria.dz",
+        "url": "https://www.lkeria.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/كيفاش.ma.jpg",
+        "name": "كيفاش.ma",
+        "url": "https://kifache.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rekrute.ma.jpg",
+        "name": "rekrute.ma",
+        "url": "https://www.rekrute.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/marocemploi.ma.jpg",
+        "name": "maroc emploi.ma",
+        "url": "https://marocemploi.net/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/optioncarriere.ma.jpg",
+        "name": "option carriere.ma",
+        "url": "https://www.optioncarriere.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/offresemploi.ma.jpg",
+        "name": "offres emploi.ma",
+        "url": "https://www.offres-emploi.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/concour_emploi.ma.jpg",
+        "name": "concour_emploi.ma",
+        "url": "https://www.concour-maroc.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/amaljob.ma.jpg",
+        "name": "amaljob.ma",
+        "url": "https://www.amaljob.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/emploi.trovit.ma.jpg",
+        "name": "emploi.trovit.ma",
+        "url": "https://emploi.trovit.ma/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jobrapido.ma.jpg",
+        "name": "jobrapido.ma",
+        "url": "https://ma.jobrapido.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/marocannonces.ma.jpg",
+        "name": "maroc annonces.ma",
+        "url": "https://www.marocannonces.com/categorie/309/Emploi/Offres-emploi.html"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jobberman.ng.jpg",
+        "name": "job ber man.ng",
+        "url": "https://www.jobberman.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/hotjobs.ng.jpg",
+        "name": "hot jobs.ng",
+        "url": "https://www.hotnigerianjobs.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/myjobmag.ng.jpg",
+        "name": "my job mag.ng",
+        "url": "https://www.myjobmag.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/joblist.ng.jpg",
+        "name": "job list.ng",
+        "url": "https://joblistnigeria.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vanguard.ng.jpg",
+        "name": "vanguard.ng",
+        "url": "https://www.vanguardngr.com/category/sports/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jobrapido.ng.jpg",
+        "name": "job rapido.ng",
+        "url": "https://ng.jobrapido.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/nayajobs.pk.jpg",
+        "name": "naya jobs.pk",
+        "url": "https://www.nayapakistanjobs.com/JobsDetail/ministry-of-defence-jobs-september-2020/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/awamiweb.pk.jpg",
+        "name": "awami web.pk",
+        "url": "https://awamiweb.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/rozee.pk.jpg",
+        "name": "rozee.pk",
+        "url": "https://www.rozee.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jobsalert.pk..jpg",
+        "name": "jobs alert.pk.",
+        "url": "https://jobsalert.pk/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/mustakbil.pk.jpg",
+        "name": "mustakbil.pk",
+        "url": "https://www.mustakbil.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indeed.pk.jpg",
+        "name": "indeed.pk",
+        "url": "https://pk.indeed.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/brightspyre.pk.jpg",
+        "name": "brightspyre.pk",
+        "url": "https://brightspyre.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/olx.pk.jpg",
+        "name": "olx.pk",
+        "url": "https://www.olx.com.pk/jobs_c4"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jobrapido.pk.jpg",
+        "name": "job rapido.pk",
+        "url": "https://pk.jobrapido.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/careerlink.vn.jpg",
+        "name": "career link.vn",
+        "url": "https://www.careerlink.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/timviecnhanh.vn.jpg",
+        "name": "timvie cnhanh.vn",
+        "url": "https://www.timviecnhanh.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/dantri.vn.jpg",
+        "name": "dantri.vn",
+        "url": "https://dantri.com.vn/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/careerjet.th.jpg",
+        "name": "careerjet.th",
+        "url": "https://www.careerjet.in.th/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jobsdb.th.jpg",
+        "name": "jobs db.th",
+        "url": "https://th.jobsdb.com/th"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/JOBthaiweb.th.jpg",
+        "name": "JOB thai web.th",
+        "url": "https://www.jobthaiweb.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/JOBthai.th.jpg",
+        "name": "JOBthai.th",
+        "url": "https://www.jobthai.com/%E0%B8%AB%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/JOBTOPGUN.th.jpg",
+        "name": "JOB TOPGUN.th",
+        "url": "https://www.jobtopgun.com/"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/vagas.br.jpg",
+        "name": "vagas.br",
+        "url": "https://vagas.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/infojobs.br.jpg",
+        "name": "info jobs.br",
+        "url": "https://infojobs.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/editalconcursosl.br.jpg",
+        "name": "editalconcursosl.br",
+        "url": "https://editalconcursosbrasil.com.br"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/neuvoo.jpg",
+        "name": "neuvoo",
+        "url": "https://neuvoo.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/indeed.jpg",
+        "name": "indeed",
+        "url": "https://indeed.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/jooble.us.jpg",
+        "name": "jooble.us",
+        "url": "https://jooble.org"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/マイナビ.jp.jpg",
+        "name": "マイナビ.jp",
+        "url": "https://mynavi.jp"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/タウンワーク.jpg",
+        "name": "タウンワーク",
+        "url": "https://townwork.net"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/thebalancecareers.jpg",
+        "name": "the balan cecareers",
+        "url": "https://thebalancecareers.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/seek.au.jpg",
+        "name": "seek.au",
+        "url": "https://seek.com.au"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/glassdoor.jpg",
+        "name": "glass door",
+        "url": "https://glassdoor.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/trovit.us.jpg",
+        "name": "trovit.us",
+        "url": "https://trovit.com"
+      },
+      {
+        "icon": "https://instalyzer.tk/aio-icon/ziprecruiter.jpg",
+        "name": "ziprecruiter",
+        "url": "https://ziprecruiter.com"
+      }
+    ]
+  }
+]

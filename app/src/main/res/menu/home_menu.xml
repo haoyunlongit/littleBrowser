@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_proxy"
+        android:icon="@drawable/ic_protect_white"
+        android:title="proxy"
+        app:showAsAction="always"
+        android:visible="true"
+        />
+
+    <item
+        android:id="@+id/item_downloads"
+        android:icon="@drawable/ic_download"
+        android:title="@string/search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/item_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="@string/search"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_downloads"
+        android:icon="@drawable/ic_download"
+        android:title="@string/downloads"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/item_favorite"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/title_favorites"
+        app:iconTint="@color/red_500"
+        app:showAsAction="always" />
+</menu>

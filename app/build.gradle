@@ -1,0 +1,159 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'androidx.navigation.safeargs.kotlin'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+}
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+
+    defaultConfig {
+        applicationId "com.smart.browser.little"
+
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+
+        versionCode rootProject.ext.versionCode
+        versionName rootProject.ext.versionName
+
+        // 命名apk和aab文件
+        def time = new Date().format("yyyyMMdd_HHmm")
+        setProperty("archivesBaseName", "AIOBrowser_v" + versionName + "(" + versionCode + ")_$time")
+    }
+
+    signingConfigs {
+        release {
+            keyAlias 'browser'
+            keyPassword 'aio365'
+            storeFile file("sign.jks")
+            storePassword 'aio365'
+        }
+    }
+    buildTypes {
+        debug {
+            versionNameSuffix ".debug"
+            buildConfigField "boolean", "DEV", "true"
+        }
+        alpha {
+            versionNameSuffix ".alpha"
+            matchingFallbacks = ['release', 'debug']
+            signingConfig signingConfigs.release
+            buildConfigField "boolean", "DEV", "true"
+        }
+        release {
+            minifyEnabled true
+            shrinkResources true
+            zipAlignEnabled true
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            buildConfigField "boolean", "DEV", "false"
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    buildFeatures {
+        dataBinding true
+        viewBinding true
+    }
+}
+
+// 屏蔽 task (crashlyticsUploadDeobsRelease)
+gradle.taskGraph.whenReady {
+    tasks.each { task ->
+        if (task.name.contains("uploadCrashlyticsMappingFile")) {
+            task.enabled = false
+        }
+    }
+}
+repositories {
+    flatDir { dirs 'libs' }
+}
+dependencies {
+
+    // Core
+    implementation "androidx.core:core-ktx:$androidxCoreVersion"
+
+    // 架构组建
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycleVersion"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion"
+    implementation "androidx.navigation:navigation-fragment-ktx:$navigationVersion"
+    implementation "androidx.navigation:navigation-ui-ktx:$navigationVersion"
+    implementation "androidx.fragment:fragment-ktx:$fragmentKtxVersion"
+    implementation "androidx.lifecycle:lifecycle-process:$lifecycleVersion"
+    implementation "androidx.lifecycle:lifecycle-common-java8:$lifecycleVersion"
+    implementation "androidx.lifecycle:lifecycle-livedata-core-ktx:$lifecycleVersion"
+    implementation "androidx.preference:preference:$preferenceVersion"
+
+    // Firebase
+    implementation platform("com.google.firebase:firebase-bom:$firebaseBomVersion")
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+    implementation 'com.google.firebase:firebase-messaging-ktx'
+
+    // Facebook
+    implementation "com.facebook.android:facebook-core:$facebookVersion"
+
+    // UI组件
+    implementation "androidx.appcompat:appcompat:$appCompatVersion"
+    implementation "com.google.android.material:material:$materialVersion"
+    implementation "androidx.constraintlayout:constraintlayout:$constraintlayoutVersion"
+
+    // 工具库
+    implementation "com.google.code.gson:gson:$gsonVersion"
+
+    // Always required:
+    implementation 'com.taboola:android-sdk:3.4.0'
+
+    // To open the clicked item in a new *tab*:
+    implementation 'androidx.browser:browser:1.3.0'
+
+    // 广告聚合
+    implementation "com.google.ads.mediation:facebook:$fbMediationVersion"
+    implementation "com.google.ads.mediation:applovin:$applovinMediationVersion"
+
+
+    // 子模块
+    implementation project(":data")
+    implementation project(":config")
+    implementation project(":util")
+    implementation project(":view")
+    implementation project(":ad")
+    //implementation project(":vpn")
+    implementation project(':video-player')
+    implementation project(":video-downloader")
+
+    //proxy模块
+    //implementation fileTree(dir: 'libs', include: ['*.aar', '*.jar'])
+    implementation(name: 'core-release', ext: 'aar')
+    implementation(name: 'plugin-release', ext: 'aar')
+    implementation(name: 'proxy-release', ext: 'aar')
+    implementation 'com.jakewharton.timber:timber:4.7.1'
+    implementation 'dnsjava:dnsjava:2.1.9'
+    implementation 'org.connectbot.jsocks:jsocks:1.0.0'
+    //proxy模块
+
+    //runtime
+    implementation "androidx.room:room-runtime:$roomVersion"
+    implementation "androidx.work:work-runtime-ktx:$workVersion"
+    implementation "androidx.work:work-gcm:$workVersion"
+
+    //flurry
+    implementation 'com.flurry.android:analytics:13.1.0@aar'
+
+    implementation 'io.github.scwang90:refresh-layout-kernel:2.0.5'      //核心必须依赖
+//    implementation 'io.github.scwang90:refresh-header-classics:2.0.5'    //经典刷新头
+//    implementation 'io.github.scwang90:refresh-footer-classics:2.0.5'    //经典加载
+    implementation  'io.github.scwang90:refresh-header-material:2.0.5'    //谷歌刷新头
+    implementation  'io.github.scwang90:refresh-footer-ball:2.0.5'        //球脉冲加载
+
+    //指示器库
+    implementation 'com.github.hackware1993:MagicIndicator:1.7.0'
+}

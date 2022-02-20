@@ -1,0 +1,10 @@
+rootProject.name = "Browser"
+include ':app'
+include ':data'
+include ':config'
+include ':util'
+include ':view'
+include ':ad'
+//include ':vpn'
+include ':video-downloader'
+include ':video-player'

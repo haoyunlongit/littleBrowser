@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="video"
+            type="com.art.vd.model.Video" />
+
+        <variable
+            name="viewmodel"
+            type="com.smart.browser.little.ui.download.choice.DownloadChoiceViewModel" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp">
+
+        <ImageView
+            android:id="@+id/thumbIV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:onClick="@{() -> viewmodel.check(video)}"
+            tools:ignore="ContentDescription"
+            tools:layout_height="300dp"
+            tools:layout_width="160dp"
+            tools:src="@color/purple_200" />
+
+        <View
+            android:id="@+id/checkedMaskView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/thumbIV"
+            android:layout_alignTop="@+id/thumbIV"
+            android:layout_alignRight="@+id/thumbIV"
+            android:layout_alignBottom="@+id/thumbIV"
+            android:background="@color/mask"
+            android:onClick="@{() -> viewmodel.uncheck(video)}"
+            android:visibility="@{viewmodel.checked(video) ? View.VISIBLE : View.GONE}" />
+
+        <ImageView
+            android:id="@+id/checkedIV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/thumbIV"
+            android:layout_alignBottom="@+id/thumbIV"
+            android:layout_margin="16dp"
+            android:src="@drawable/ic_checked"
+            android:visibility="@{viewmodel.checked(video) ? View.VISIBLE : View.INVISIBLE}"
+            app:tint="@color/colorAccent"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/qualityTV"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/thumbIV"
+            android:layout_alignLeft="@+id/thumbIV"
+            android:layout_marginRight="10dp"
+            tools:text="720P" />
+
+        <TextView
+            android:id="@+id/sizeTV"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/qualityTV"
+            android:layout_toRightOf="@+id/qualityTV"
+            tools:text="10MB" />
+
+    </RelativeLayout>
+</layout>

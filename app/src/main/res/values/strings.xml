@@ -1,0 +1,59 @@
+<resources>
+    <string name="privacy_policy_content">By clicking Start, I agree to the Privacy Policy.</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="start">Start</string>
+    <string name="title_home">Home</string>
+    <string name="title_games">Games</string>
+    <string name="title_feed">Feed</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="empty_favorites">Favorites is Empty</string>
+    <string name="search">Search</string>
+    <string name="search_with">Search with</string>
+    <string name="empty_results">Results is Empty</string>
+    <string name="app_search_hint">Search apps</string>
+    <string name="categories">Categories</string>
+    <string name="added_to_favorites">Add to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="alert">Alert</string>
+    <string name="exit_web_alert">Are you sure to exit the web?</string>
+    <string name="exit">Exit</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="rate_us">Rate us</string>
+    <string name="rating_text2">I\'m the designer of %s, if you like %s, please rate us on the play store.</string>
+    <string name="unlock">Unlock</string>
+    <string name="connection_error">Connection error</string>
+    <string name="something_error_retry">Something error, try again later</string>
+    <string name="watch_video_to_unlock">Watch a video to unlock now</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="exit_confirmation">Exit confirmation</string>
+    <string name="exit_web_dialog_tips">Ads will be displayed after exiting, \n thank you for your patience</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="about">About</string>
+    <string name="feed_top_news">Top News</string>
+    <string name="feed_weather">Weather</string>
+    <string name="feed_entertainment">Entertainment</string>
+    <string name="feed_sports">Sports</string>
+    <string name="feed_finance">Finance</string>
+    <string name="feed_lifestyle">Lifestyle</string>
+    <string name="feed_health">Health</string>
+    <string name="feed_dining">Dining</string>
+    <string name="feed_travel">Travel</string>
+    <string name="feed_autos">Autos</string>
+    <string name="feed_video">Video</string>
+
+    <string name="download">Download</string>
+    <string name="downloads">Downloads</string>
+    <string name="watch_video_to_download">Watch a video to download</string>
+    <string name="empty_downloads">Downloads is Empty</string>
+    <string name="downloads_completed">Downloads completed</string>
+    <string name="title_download_choices">Choose which videos to download</string>
+    <string name="storage_permission_needed">Storage permission needed to use download feature</string>
+    <string name="download_start">%s start downloading</string>
+    <string name="download_completed">%s download completed</string>
+    <string name="download_failed">%s download failed</string>
+    <string name="a_video">A video</string>
+    <string name="load_video_retry">The video is loading, please keep the internet connection and try again later</string>
+
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="video"
+            type="com.art.vd.model.Video" />
+
+        <variable
+            name="viewmodel"
+            type="com.smart.browser.little.ui.download.manager.DownloadsViewModel" />
+    </data>
+
+    <RelativeLayout
+        android:id="@+id/rootLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:background="@drawable/bg_item_download"
+        android:foreground="?attr/selectableItemBackground"
+        android:onClick="@{() -> viewmodel.watch(video)}"
+        tools:ignore="UnusedAttribute">
+
+        <ImageView
+            android:id="@+id/previewIV"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="4dp"
+            android:scaleType="centerCrop"
+            android:src="@color/colorAccent"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/titleTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/previewIV"
+            android:layout_toEndOf="@+id/previewIV"
+            android:fontFamily="sans-serif-medium"
+            android:paddingHorizontal="10dp"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            tools:ignore="RelativeOverlap"
+            tools:text="Hello WorldHello World" />
+
+        <TextView
+            android:id="@+id/sizeTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/titleTV"
+            android:layout_alignBottom="@+id/previewIV"
+            android:fontFamily="sans-serif-medium"
+            android:paddingHorizontal="10dp"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            tools:text="10MB" />
+
+        <ProgressBar
+            android:id="@+id/downloadingPB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/previewIV"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="2dp"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+</layout>

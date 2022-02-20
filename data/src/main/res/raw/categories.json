@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Social",
+    "icon": "file:///android_asset/icons/social.png",
+    "key": "social"
+  },
+  {
+    "name": "Shopping",
+    "icon": "file:///android_asset/icons/shop.png",
+    "key": "shop"
+  },
+  {
+    "name": "News",
+    "icon": "file:///android_asset/icons/news.png",
+    "key": "news"
+  },
+  {
+    "name": "Visual",
+    "icon": "file:///android_asset/icons/visual.png",
+    "key": "visual"
+  },
+  {
+    "name": "Search engines",
+    "icon": "file:///android_asset/icons/search.png",
+    "key": "search"
+  },
+  {
+    "name": "Education",
+    "icon": "file:///android_asset/icons/edu.png",
+    "key": "edu"
+  },
+  {
+    "name": "Sports",
+    "icon": "file:///android_asset/icons/sport.png",
+    "key": "sport"
+  },
+  {
+    "name": "Service",
+    "icon": "file:///android_asset/icons/service.png",
+    "key": "service"
+  },
+  {
+    "name": "Tourism and Travel",
+    "icon": "file:///android_asset/icons/travel.png",
+    "key": "travel"
+  },
+  {
+    "name": "Email services",
+    "icon": "file:///android_asset/icons/email.png",
+    "key": "email"
+  },
+  {
+    "name": "Business",
+    "icon": "file:///android_asset/icons/job.png",
+    "key": "job"
+  },
+  {
+    "name": "Videos",
+    "icon": "file:///android_asset/icons/video.png",
+    "key": "video"
+  },
+  {
+    "name": "Novels",
+    "icon": "file:///android_asset/icons/novel.png",
+    "key": "novel"
+  }
+]

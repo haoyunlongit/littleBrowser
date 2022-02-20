@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    // 广告
+    <dimen name="native_ad_media_height">178dp</dimen>
+    <dimen name="native_ad_with_media_cta_height">44dp</dimen>
+    <dimen name="native_ad_with_media_height">222dp</dimen>
+
+</resources>
