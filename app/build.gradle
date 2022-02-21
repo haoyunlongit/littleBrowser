@@ -26,10 +26,16 @@ android {
 
     signingConfigs {
         release {
-            keyAlias 'browser'
-            keyPassword 'aio365'
-            storeFile file("sign.jks")
-            storePassword 'aio365'
+            keyAlias 'key0'
+            keyPassword '123456'
+            storeFile file("sign2.jks")
+            storePassword '123456'
+        }
+        debug {
+            keyAlias 'key0'
+            keyPassword '123456'
+            storeFile file("sign2.jks")
+            storePassword '123456'
         }
     }
     buildTypes {

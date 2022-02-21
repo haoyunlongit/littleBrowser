@@ -37,7 +37,7 @@ buildscript {
         // 工具库
         gsonVersion = '2.8.6'
         retrofitVersion = '2.9.0'
-        firebaseBomVersion = "28.1.0"
+        firebaseBomVersion = "29.0.4"
         okhttp3Version = "3.14.9"
         okioVersion = "2.4.0"
         // 推广
@@ -61,7 +61,7 @@ buildscript {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$navigationVersion"
         classpath 'com.google.gms:google-services:4.3.8'
-        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.7.0'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.8.1'
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
