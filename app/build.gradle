@@ -26,15 +26,15 @@ android {
 
     signingConfigs {
         release {
-            keyAlias 'key0'
+            keyAlias 'key'
             keyPassword '123456'
-            storeFile file("sign2.jks")
+            storeFile file("key.jks")
             storePassword '123456'
         }
         debug {
-            keyAlias 'key0'
+            keyAlias 'key'
             keyPassword '123456'
-            storeFile file("sign2.jks")
+            storeFile file("key.jks")
             storePassword '123456'
         }
     }
