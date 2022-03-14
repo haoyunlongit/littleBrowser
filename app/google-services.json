@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "1019316402144",
-    "project_id": "ls-browser-90aab",
-    "storage_bucket": "ls-browser-90aab.appspot.com"
+    "project_number": "924217661269",
+    "project_id": "smart-browser-c1a4a",
+    "storage_bucket": "smart-browser-c1a4a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1019316402144:android:3d095a025ddd557e1f9d85",
+        "mobilesdk_app_id": "1:924217661269:android:5049e6749e00bc809f01dc",
         "android_client_info": {
           "package_name": "com.smart.browser.little"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1019316402144-q5o83ocjuicu91qrd90en751r178jfsg.apps.googleusercontent.com",
+          "client_id": "924217661269-igs1tvgh9k4ekbp9ruiuabh4sjd629jf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.smart.browser.little",
-            "certificate_hash": "9d890f2eb006557b9c36c2adf566d779cf7479e1"
+            "certificate_hash": "926b55d8debd0193d2b375d00126f8cd987976fc"
           }
         },
         {
-          "client_id": "1019316402144-uj38o0c293ca9gje96vrgni09qskd67e.apps.googleusercontent.com",
+          "client_id": "924217661269-ot05l5gp55dfv791enmfi7hbtabfqved.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBbmgbP7ikcNEOFDGjG_r12qNnr_xLznmU"
+          "current_key": "AIzaSyCVvmsKIjxahxqsLpsFHkdtDmdUWzFtESE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1019316402144-uj38o0c293ca9gje96vrgni09qskd67e.apps.googleusercontent.com",
+              "client_id": "924217661269-ot05l5gp55dfv791enmfi7hbtabfqved.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

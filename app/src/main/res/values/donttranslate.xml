@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">LS Browser</string>
+    <string name="app_name" translatable="false">Little Browser</string>
     <string name="privacy_policy_url" translatable="false">https://sites.google.com/view/little-browser</string>
     <string name="facebook_app_id" translatable="false">1127534954405947</string>
 

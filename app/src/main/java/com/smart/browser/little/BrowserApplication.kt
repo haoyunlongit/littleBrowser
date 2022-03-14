@@ -73,6 +73,6 @@ class BrowserApplication : Application() {
     private fun initFlurry() {
         FlurryAgent.Builder()
             .withLogEnabled(false)
-            .build(this, "QC8F2QKTD7VMR98RH9W3")
+            .build(this, "ZN89KH6DN2JP7QFZ3459")
     }
 }
